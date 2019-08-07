@@ -1,0 +1,86 @@
+https://gitlab.com/jan_marcel/fraud-detection,You are a contract data scientist/consultant hired by a new e-commerce site to try to weed out fraudsters. The company's expences increase if a customer buys tickets for a fraud event. Because by law the refund is expected. ,e-commerce fraud
+https://gitlab.com/knowsbuy/cookielesscookies,Demo of tracking using etags instead of cookies (or localstorage or anything else),cookie tracking
+https://gitlab.com/Fred89/cookielesscookies,Demo of tracking using etags instead of cookies (or localstorage or anything else),cookie tracking
+https://gitlab.com/fredatgithub/cookielesscookies,Demo of tracking using etags instead of cookies (or localstorage or anything else),cookie tracking
+https://gitlab.com/lamka02sk/contain-google,Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.,cookie tracking
+https://gitlab.com/eiglow/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
+https://gitlab.com/pokeguru87/deep-dungeon-tracker,A website for tracking Deep Dungeon experience in Final Fantasy XIV for all classes simultanously.,website tracking
+https://gitlab.com/priestd09/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
+https://gitlab.com/jorrellh/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
+https://gitlab.com/amrikasir/laravel-popular,A Laravel package for tracking popular entries(by Models) of a website in a certain time,website tracking
+https://gitlab.com/chriscowleysound/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
+https://gitlab.com/npal/grupaprekoveze,"Project built for the ""Software Design"" module of the University of Zagreb's Faculty of Electrical Engineering and Computing. Goal of the project was to build a modern website service for tracking expenditures and revenues.",website tracking
+https://gitlab.com/Constance_luko/link-segment-and-google-analytics,Benoit has already linked Segment and Analytics but nothing shows in Analytics and I read in this article that we need to take out the Google tags from our website to avoid double tracking : hhttps://segment.com/docs/destinations/google-analytics/,website tracking
+https://gitlab.com/mihaieredani/URL-Tracking-Chrome-Extension," That is a Google Chrome extension which tracking current tabs or new tabs from Chrome and save from all tabs the time spent on it, the host, the url and date open and close.All that informations will be sent to a database and with a backend in Laravel from all customers will be c reated a dashboard with charts and all informations about each customer who use out extension. The company will see top 5 websites with the long time spend on a host and top 5 websites the most opened host.",website tracking
+https://gitlab.com/prahaladbelavadi/awesome-quantified-self,":bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking",website tracking
+https://gitlab.com/icukaegbu-projects/poploda-web,Website for tracking reports of usage from mobile app,website tracking
+https://gitlab.com/gitlab-org/backstage-changelog,"A Middleman website for tracking backstage changes made by GitLab team members.
+
+The live version can be found at https://gitlab-org.gitlab.io/backstage-changelog/.",website tracking
+https://gitlab.com/pikatrack/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
+https://gitlab.com/CorruptedValor/tides-of-war-site,A website for tracking stats and creating match-up lists,website tracking
+https://gitlab.com/lamka02sk/contain-google,Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.,website tracking
+https://gitlab.com/l1k3m/wp-analytics,A very simple Google Analytics handler that injects the tracking code into your Wordpress website.,website tracking
+https://gitlab.com/LeonP92/recipeitor,A basic recipe tracking website,website tracking
+https://gitlab.com/rilis/rilis,Rilis projects official website generator and issue tracking repository,website tracking
+https://gitlab.com/daffyhate3354/TrackerSpy,"this is tracking app. this application track to your call detail, sms , location and contact detail. application hide option are available into download application into website.Hide TrackerSpy application in one Minute.",website tracking
+https://gitlab.com/Nicd/rekkaritarkkailu,A website for tracking vehicle licence plate spotting progress.,website tracking
+https://gitlab.com/kleklai/Debian-8-VPS-script,Debain 8+ OpenVPN Server Script with Monitoring Website,website monitoring
+https://gitlab.com/drentsoft/hiawatha,"Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL injections, XSS and CSRF attacks and exploit attempts. The built-in monitoring tool makes it perfect for large scale deployments.
+
+Hiawatha project website: https://www.hiawatha-webserver.org/",website monitoring
+https://gitlab.com/nicogiessmann/lamp-systemmonitoring,"Automatisches Installationsskript und Skripte fÃ¼r einfaches Systemmonitoring unter Ubuntu Linux mit Apache2, PHP7.2 und MySQL-Server. Bereitstellung von log-Datei und Website.
+",website monitoring
+https://gitlab.com/cyberhippo/MoniPy,Website monitoring tool in Python,website monitoring
+https://gitlab.com/Gazer022/hiawatha,"Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL injections, XSS and CSRF attacks and exploit attempts. The built-in monitoring tool makes it perfect for large scale deployments.
+
+Hiawatha project website: https://www.hiawatha-webserver.org/",website monitoring
+https://gitlab.com/Arphox.HobbyProjects/processwiper,"Monitoring software which closes any program with matching process name or MainWindowTitle, used in a high school as a protection tool unwanted websites (students using e.g. facebook at class).",website monitoring
+https://gitlab.com/zeddinarief/jasatirtanms,website monitoring using openlayers map to show customer location,website monitoring
+https://gitlab.com/privy-edge/hiawatha,"Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL injections, XSS and CSRF attacks and exploit attempts. The built-in monitoring tool makes it perfect for large scale deployments.
+
+Hiawatha project website: https://www.hiawatha-webserver.org/",website monitoring
+https://gitlab.com/renzcybermedia/IoT-Project-Site,Website untuk monitoring suhu dan kelembaban,website monitoring
+https://gitlab.com/oxmoto/web-performance-monitoring,ğŸ�� a daily gitlab-ci task for web-performance monitoring of multiple websites,website monitoring
+https://gitlab.com/codecopy/hiawatha,"Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL injections, XSS and CSRF attacks and exploit attempts. The built-in monitoring tool makes it perfect for large scale deployments.
+
+Hiawatha project website: https://www.hiawatha-webserver.org/",website monitoring
+https://gitlab.com/James_E/hiawatha,"Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL injections, XSS and CSRF attacks and exploit attempts. The built-in monitoring tool makes it perfect for large scale deployments.
+
+Hiawatha project website: https://www.hiawatha-webserver.org/",website monitoring
+https://gitlab.com/adrieng/ddmonitor,Website availability and performance monitoring console program in go,website monitoring
+https://gitlab.com/coignetp/website-monitoring,A website monitoring tool as a Datadog exercise.,website monitoring
+https://gitlab.com/danielmohr/Pinger,"Pinger is a simple but elegant chrome extension for monitoring the status of a remote server, website or a remote DB.",website monitoring
+https://gitlab.com/danielmohr/pingbot,A website monitoring/health-checking tool based on serverless architecture.,website monitoring
+https://gitlab.com/samsulmaarif/isims,FITUR - Manajemen Monitoring Pembelajaran - Pengaturan Website Dinamis - Manajemen Nilai dan Raport - Manajemen Jurnal Mengajar - Manajemen Kenaikan Kelas - Manajemen Absensi Siswa - Manajemen User - Kalkulator,website monitoring
+https://gitlab.com/hsleisink/hiawatha,"Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL injections, XSS and CSRF attacks and exploit attempts. The built-in monitoring tool makes it perfect for large scale deployments.
+
+Hiawatha project website: https://www.hiawatha-webserver.org/",website monitoring
+https://gitlab.com/garfunkel/PingThing-Android,A server and website availability monitoring app for Android.,website monitoring
+https://gitlab.com/563712793/axe-core,Accessibility engine for automated Web UI testing,web accessibility
+https://gitlab.com/radhefa2/wcag,Web Content Accessibility Guidelines,web accessibility
+https://gitlab.com/jnickgo/axe-selenium-webdriver,An exploratory sample application that utilized Selenium WebDriver and aXe for automated accessibility testing.,web accessibility
+https://gitlab.com/ccrpc/access-score,"Accessibility scores for walking, biking, bus, and driving using
+Web Map GL.",web accessibility
+https://gitlab.com/huarxia/PIGNOSE-Tab,jQuery tab plugin supporting web accessibility.,web accessibility
+https://gitlab.com/mortezaomidi/access-route,"A mapping website that calculates routes around accessibility obstacles, written in django and postgis",web accessibility
+https://gitlab.com/jacktheclicker/wcag,Web Content Accessibility Guidelines,web accessibility
+https://gitlab.com/101-side/accessibility,Web Accessibility,web accessibility
+https://gitlab.com/pikselkraft/npm-scripts-boilerplate-XL,"This boilerplate is made for the front-end developer who wants to develop 100% custom template. It uses the last web standards and focuses on quality, accessibility and workflow optimisation.",web accessibility
+https://gitlab.com/18runt88/wcag-em-report-tool,Interactive Guide to Assist Managing Web Accessibility Evaluations,web accessibility
+https://gitlab.com/johnantoni/axe-core,Accessibility engine for automated Web UI testing,web accessibility
+https://gitlab.com/Oliichi42/git-me,"Very simple, very straightforward identity management for git and protection against committing in an unintended user.",identity protection
+https://gitlab.com/atifzaidi/boomerang,End user oriented web performance testing and beaconing,web beacon
+https://gitlab.com/rstivers/scavenger-hunt,"Scavenger Hunt Web Portal: Mobile/Touch friendly web portal used to place virtual beacons for scavenger hunt app. Stores normalized coordinate data and item tag, data can be accessed via API.",web beacon
+https://gitlab.com/komorowskik/bluetooth-sniffer,A small Raspberry Pi project sniffing nearby bluetooth beacons and displaying statistics about them on a simple website,web beacon
+https://gitlab.com/smbale/uribeacon,The Web Uri Open Beacon for the Internet of Things,web beacon
+https://gitlab.com/renatasantosf/promobeacon-web,"Projeto desenvolvido para a disciplina de projeto e desenvolvimento da Faculdade Senac Porto Alegre.
+",web beacon
+https://gitlab.com/angst7/Phatbeacon,nRF52 implementation of Physical Web Fatbeacon,web beacon
+https://gitlab.com/soundtrack/webapp,"This Web app will display a ""map"" with beacons and target. Directly fetched from a database",web beacon
+https://gitlab.com/nastis/pi_hub,"All code needed to create the raspberry pi hub, that connects via RF24L01 with the arduino beacons, and uses rest api to submit changes to a web server aggragating data.
+",web beacon
+https://gitlab.com/khalifamhmdkhalifa/LocationBasedAdvertisingApplication,Location Based Advertising Application it uses beacon to identify the location and asp web service to access the stores' data...,web beacon
+https://gitlab.com/sdjava/beaconDemo,web beacon,web beacon
+https://gitlab.com/overup/boomerang,End user oriented web performance testing and beaconing,web beacon
+https://gitlab.com/Jamesking56/BeaconFramework,The web framework used for *most* client web projects by Beacon Studios.,web beacon
