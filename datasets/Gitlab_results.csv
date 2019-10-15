@@ -1,31 +1,13 @@
-https://gitlab.com/jan_marcel/fraud-detection,You are a contract data scientist/consultant hired by a new e-commerce site to try to weed out fraudsters. The company's expences increase if a customer buys tickets for a fraud event. Because by law the refund is expected. ,e-commerce fraud
-https://gitlab.com/knowsbuy/cookielesscookies,Demo of tracking using etags instead of cookies (or localstorage or anything else),cookie tracking
-https://gitlab.com/Fred89/cookielesscookies,Demo of tracking using etags instead of cookies (or localstorage or anything else),cookie tracking
-https://gitlab.com/fredatgithub/cookielesscookies,Demo of tracking using etags instead of cookies (or localstorage or anything else),cookie tracking
-https://gitlab.com/lamka02sk/contain-google,Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.,cookie tracking
-https://gitlab.com/eiglow/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
-https://gitlab.com/pokeguru87/deep-dungeon-tracker,A website for tracking Deep Dungeon experience in Final Fantasy XIV for all classes simultanously.,website tracking
-https://gitlab.com/priestd09/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
-https://gitlab.com/jorrellh/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
-https://gitlab.com/amrikasir/laravel-popular,A Laravel package for tracking popular entries(by Models) of a website in a certain time,website tracking
-https://gitlab.com/chriscowleysound/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
-https://gitlab.com/npal/grupaprekoveze,"Project built for the ""Software Design"" module of the University of Zagreb's Faculty of Electrical Engineering and Computing. Goal of the project was to build a modern website service for tracking expenditures and revenues.",website tracking
-https://gitlab.com/Constance_luko/link-segment-and-google-analytics,Benoit has already linked Segment and Analytics but nothing shows in Analytics and I read in this article that we need to take out the Google tags from our website to avoid double tracking : hhttps://segment.com/docs/destinations/google-analytics/,website tracking
-https://gitlab.com/mihaieredani/URL-Tracking-Chrome-Extension," That is a Google Chrome extension which tracking current tabs or new tabs from Chrome and save from all tabs the time spent on it, the host, the url and date open and close.All that informations will be sent to a database and with a backend in Laravel from all customers will be c reated a dashboard with charts and all informations about each customer who use out extension. The company will see top 5 websites with the long time spend on a host and top 5 websites the most opened host.",website tracking
-https://gitlab.com/prahaladbelavadi/awesome-quantified-self,":bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking",website tracking
-https://gitlab.com/icukaegbu-projects/poploda-web,Website for tracking reports of usage from mobile app,website tracking
-https://gitlab.com/gitlab-org/backstage-changelog,"A Middleman website for tracking backstage changes made by GitLab team members.
+https://gitlab.com/infamoustrey/stockify,A stock market monitoring web app,market monitoring
+https://gitlab.com/magicokeys/web-ams,Website for Attendance Monitoring System,website monitoring
+https://gitlab.com/tolster710/slackbot_template,"Contains boilerplate for slack website/URL monitoring service.
+Supports:
+1. Multiple endpoints + http(s), and specific ports [using python requests]
+2. Queryable interface / presence on slack channel
+3. Cron-able to check endpoints every N min.",website monitoring
+https://gitlab.com/franklopeslr/hiawatha,"Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL injections, XSS and CSRF attacks and exploit attempts. The built-in monitoring tool makes it perfect for large scale deployments.
 
-The live version can be found at https://gitlab-org.gitlab.io/backstage-changelog/.",website tracking
-https://gitlab.com/pikatrack/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
-https://gitlab.com/CorruptedValor/tides-of-war-site,A website for tracking stats and creating match-up lists,website tracking
-https://gitlab.com/lamka02sk/contain-google,Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.,website tracking
-https://gitlab.com/l1k3m/wp-analytics,A very simple Google Analytics handler that injects the tracking code into your Wordpress website.,website tracking
-https://gitlab.com/LeonP92/recipeitor,A basic recipe tracking website,website tracking
-https://gitlab.com/rilis/rilis,Rilis projects official website generator and issue tracking repository,website tracking
-https://gitlab.com/daffyhate3354/TrackerSpy,"this is tracking app. this application track to your call detail, sms , location and contact detail. application hide option are available into download application into website.Hide TrackerSpy application in one Minute.",website tracking
-https://gitlab.com/Nicd/rekkaritarkkailu,A website for tracking vehicle licence plate spotting progress.,website tracking
-https://gitlab.com/kleklai/Debian-8-VPS-script,Debain 8+ OpenVPN Server Script with Monitoring Website,website monitoring
+Hiawatha project website: https://www.hiawatha-webserver.org/",website monitoring
 https://gitlab.com/drentsoft/hiawatha,"Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL injections, XSS and CSRF attacks and exploit attempts. The built-in monitoring tool makes it perfect for large scale deployments.
 
 Hiawatha project website: https://www.hiawatha-webserver.org/",website monitoring
@@ -35,12 +17,11 @@ https://gitlab.com/cyberhippo/MoniPy,Website monitoring tool in Python,website m
 https://gitlab.com/Gazer022/hiawatha,"Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL injections, XSS and CSRF attacks and exploit attempts. The built-in monitoring tool makes it perfect for large scale deployments.
 
 Hiawatha project website: https://www.hiawatha-webserver.org/",website monitoring
-https://gitlab.com/Arphox.HobbyProjects/processwiper,"Monitoring software which closes any program with matching process name or MainWindowTitle, used in a high school as a protection tool unwanted websites (students using e.g. facebook at class).",website monitoring
 https://gitlab.com/zeddinarief/jasatirtanms,website monitoring using openlayers map to show customer location,website monitoring
 https://gitlab.com/privy-edge/hiawatha,"Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL injections, XSS and CSRF attacks and exploit attempts. The built-in monitoring tool makes it perfect for large scale deployments.
 
 Hiawatha project website: https://www.hiawatha-webserver.org/",website monitoring
-https://gitlab.com/renzcybermedia/IoT-Project-Site,Website untuk monitoring suhu dan kelembaban,website monitoring
+https://gitlab.com/laurensius-dede-suhardiman/IoT-Project-Site,Website untuk monitoring suhu dan kelembaban,website monitoring
 https://gitlab.com/oxmoto/web-performance-monitoring,ğŸ�� a daily gitlab-ci task for web-performance monitoring of multiple websites,website monitoring
 https://gitlab.com/codecopy/hiawatha,"Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL injections, XSS and CSRF attacks and exploit attempts. The built-in monitoring tool makes it perfect for large scale deployments.
 
@@ -57,6 +38,222 @@ https://gitlab.com/hsleisink/hiawatha,"Hiawatha is an open source webserver with
 
 Hiawatha project website: https://www.hiawatha-webserver.org/",website monitoring
 https://gitlab.com/garfunkel/PingThing-Android,A server and website availability monitoring app for Android.,website monitoring
+https://gitlab.com/mybees.space/mybees-server,Node.js API and Website for the MyBees Open Source Beehive monitoring Project,website monitoring
+https://gitlab.com/deletos/devopscamp-challenge-monitoring,Creating monitoring setup in order to trigger health/sanitychecks to a website  ,website monitoring
+https://gitlab.com/perfectomobilepresales/aw-unibet-mon-splunk,Demo Project - Unibet Websites in UK and AU - simple response time monitoring dumping data into Splunk,website monitoring
+https://gitlab.com/radek-sprta/vigil,Vigil is a website monitoring command-line application. It periodically checks websites for changes and notifies user by email.,website monitoring
+https://gitlab.com/gpestana/web_monitor,monitoring tool for web site administrators for detecting problems on websites,website monitoring
+https://gitlab.com/rdomingonl/sitemonitoring-production,free open source website monitoring software,website monitoring
+https://gitlab.com/wkm/Axirassa,A now-defunct project to create a website uptime monitoring service,website monitoring
+https://gitlab.com/c12f20/affiliateapp-android,A general affiliate application to view/tracking products from multiple affiliate website.,website tracking
+https://gitlab.com/eiglow/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
+https://gitlab.com/pokeguru87/deep-dungeon-tracker,A website for tracking Deep Dungeon experience in Final Fantasy XIV for all classes simultanously.,website tracking
+https://gitlab.com/priestd09/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
+https://gitlab.com/jorrellh/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
+https://gitlab.com/amrikasir/laravel-popular,A Laravel package for tracking popular entries(by Models) of a website in a certain time,website tracking
+https://gitlab.com/chriscowleysound/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
+https://gitlab.com/npal/grupaprekoveze,"Project built for the ""Software Design"" module of the University of Zagreb's Faculty of Electrical Engineering and Computing. Goal of the project was to build a modern website service for tracking expenditures and revenues.",website tracking
+https://gitlab.com/mihaieredani/URL-Tracking-Chrome-Extension," That is a Google Chrome extension which tracking current tabs or new tabs from Chrome and save from all tabs the time spent on it, the host, the url and date open and close.All that informations will be sent to a database and with a backend in Laravel from all customers will be c reated a dashboard with charts and all informations about each customer who use out extension. The company will see top 5 websites with the long time spend on a host and top 5 websites the most opened host.",website tracking
+https://gitlab.com/prahaladbelavadi/awesome-quantified-self,":bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking",website tracking
+https://gitlab.com/icukaegbu-projects/poploda-web,Website for tracking reports of usage from mobile app,website tracking
+https://gitlab.com/gitlab-org/backstage-changelog,"A Middleman website for tracking backstage changes made by GitLab team members.
+
+The live version can be found at https://gitlab-org.gitlab.io/backstage-changelog/.",website tracking
+https://gitlab.com/pikatrack/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
+https://gitlab.com/CorruptedValor/tides-of-war-site,A website for tracking stats and creating match-up lists,website tracking
+https://gitlab.com/lamka02sk/contain-google,Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.,website tracking
+https://gitlab.com/l1k3m/wp-analytics,A very simple Google Analytics handler that injects the tracking code into your Wordpress website.,website tracking
+https://gitlab.com/LeonP92/recipeitor,A basic recipe tracking website,website tracking
+https://gitlab.com/rilis/rilis,Rilis projects official website generator and issue tracking repository,website tracking
+https://gitlab.com/daffyhate3354/TrackerSpy,"this is tracking app. this application track to your call detail, sms , location and contact detail. application hide option are available into download application into website.Hide TrackerSpy application in one Minute.",website tracking
+https://gitlab.com/Nicd/rekkaritarkkailu,A website for tracking vehicle licence plate spotting progress.,website tracking
+https://gitlab.com/democracy-tools/democracy,"A web content management system (CMS) for operating websites focused on tracking governmental and political information; such as elections, candidates, political parties, platforms, governments, government officials, issues, policies, legislation, an",website tracking
+https://gitlab.com/tekton/wp-analytics,A very simple Google Analytics handler that injects the tracking code into your Wordpress website.,website tracking
+https://gitlab.com/nicklyman/places-visited,A website for entering and tracking places visited using javascript objects and constructors.,website tracking
+https://gitlab.com/zdenko/giftsmas,Gift Tracking Website using Roda and Sequel,website tracking
+https://gitlab.com/oytunistrator/Blockd,Script for blocking website of choice. Blocks tracking websites on the network level.,website tracking
+https://gitlab.com/mtonymiller24/mycampusbeer_archive,"old project, website for tracking beer prices",website tracking
+https://gitlab.com/seacoastboy/django-tracking2,"django-tracking2 tracks the length of time visitors and registered users spend on your site. Although this will work for websites, this is more applicable to web _applications_ with registered users. This does not replace (nor intend) to replace client-side analytics which is great for understanding aggregate flow of page views.",website tracking
+https://gitlab.com/piyushSKY/webCrawler,Created by piyush ( piyushk@cdac.in / piy.sky7@gmail.com ) for tracking new contents on website,website tracking
+https://gitlab.com/knowsbuy/cookielesscookies,Demo of tracking using etags instead of cookies (or localstorage or anything else),cookie tracking
+https://gitlab.com/Fred89/cookielesscookies,Demo of tracking using etags instead of cookies (or localstorage or anything else),cookie tracking
+https://gitlab.com/fredatgithub/cookielesscookies,Demo of tracking using etags instead of cookies (or localstorage or anything else),cookie tracking
+https://gitlab.com/lamka02sk/contain-google,Google Container isolates your Google activity from the rest of your web activity in order to prevent Google from tracking you outside of the Google website via third party cookies.,cookie tracking
+https://gitlab.com/R136a1/gnet,"âš¡ï¸�A high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.ğŸ”¥
+https://github.com/panjf2000/gnet",ad blocking
+https://gitlab.com/jcsx/serialport-rs,A cross-platform serial port library in Rust. Provides a blocking I/O interface and port enumeration including USB device information.,ad blocking
+https://gitlab.com/horvaro/HostfileAdBlocker-Windows,Hostfile based AD-Blocking for Windows,ad blocking
+https://gitlab.com/unknowboy1991/matrix,The complete Blocking lists,ad blocking
+https://gitlab.com/johnhandcockandstuff/iDevice-Mobile-Hosts-Blocker,Compilation of hosts blockers for blocking in the DNSCloak iOS application,ad blocking
+https://gitlab.com/Perflyst/cloud-firewall,"Cloud Firewall is a browser extension/addon that allows you to toggle blocking ON or OFF for allowing your browser to connect to web pages and web resources (like images, videos) hosted on popular top 5 cloud/companies",ad blocking
+https://gitlab.com/I201821180/sre-exercise-sample-app,"A Node.js web server with severe event loop blocking challenges, for use with Snyk's SRE practical exercise.",ad blocking
+https://gitlab.com/thatonesysadmin/privacy,"Things pertaining to general privacy, ad blocking, tracking blocking, etc",ad blocking
+https://gitlab.com/digitalarc/ublocklist,This is a public list of ADblocking for uBlock Origin,ad blocking
+https://gitlab.com/genericdays10/tadarise-60-mg,"<a href=""https://www.genericday.com/tadarise-60-mg.html"">TADARISE 60 MG</a> is a holy-replica of Tadalafil-based Cialis medicines which are used for blocking PDE5 enzymes and regulating the blood flow in the penises stuck by erectile dysfunction (ED)",ad blocking
+https://gitlab.com/flapedriza/90dns,NX DNS setup with BIND9 and nginx for blocking all Nintendo servers.,ad blocking
+https://gitlab.com/ferrettim/itsybitsycloud,"ItsyBitsyCloud is a simple project to get a home cloud setup for calendar/contact/file backups, news, network ad blocking, and shared password management up and running quickly on a Raspberry Pi via docker.",ad blocking
+https://gitlab.com/my-privacy-dns/rpz-dns-firewall-tools/hosts,This is where you'll find the rather outdated way of blocking bad guys.,ad blocking
+https://gitlab.com/pizdec/softether-vpn-server-with-adblocking,"SoftEther VPN Server install for Ubuntu/Debian/Centos
+includes adblocking dnsmasq and support for custom opened ports",ad blocking
+https://gitlab.com/mikeramsey/softether-vpn-server-with-adblocking,"SoftEther VPN Server install for Ubuntu/Debian/Centos
+includes adblocking dnsmasq and support for custom opened ports",ad blocking
+https://gitlab.com/fanboystudios/baddieblock-for-pihole,"The Complete PiHole Blacklist For Blocking Bad Things Online Including: Advertisements, Malware, Spyware, Scams, Porn, and Other Undesirable Content!",ad blocking
+https://gitlab.com/owenallsopp/arachnid,Non-blocking HTTP server,ad blocking
+https://gitlab.com/genericnew101/bytadarise-60-mg,"TADARISE  60 MGis a holy-replica of Tadalafil-based Cialis medicines which are used for blocking PDE5 enzymes. Check out <a href=""https://www.genericday.com/tadarise-60-mg.html"">Tadarise 60mg Reviews</a>",ad blocking
+https://gitlab.com/0njzy0/90dns,NX DNS setup with BIND9 and nginx for blocking all Nintendo servers.,ad blocking
+https://gitlab.com/xiaonanhailili/OkSocket,An blocking socket client for Android applications.,ad blocking
+https://gitlab.com/RedisGeek/serialport-rs,A cross-platform serial port library in Rust. Provides a blocking I/O interface and port enumeration including USB device information.,ad blocking
+https://gitlab.com/Hakerh400/ultra-block,Advertisement blocking extension for Google Chrome,ad blocking
+https://gitlab.com/franklopeslr/hiawatha,"Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL injections, XSS and CSRF attacks and exploit attempts. The built-in monitoring tool makes it perfect for large scale deployments.
+
+Hiawatha project website: https://www.hiawatha-webserver.org/",ad blocking
+https://gitlab.com/genericlive/tadarise-60-mg,"TADARISE  60 MGis a holy-replica of Tadalafil-based Cialis medicines which are used for blocking PDE5 enzymes and regulating the blood flow in the penises stuck by erectile dysfunction (ED). Check out <a href=""https://www.genericday.com/tadarise-60-m",ad blocking
+https://gitlab.com/MaxValue/Ad-Filters,Various custom ad-blocking filters with focus on Austrian websites. Tested for use with AdNauseam.,ad blocking
+https://gitlab.com/genericnew101/tadarise-60-mg,"<a href=""https://www.genericday.com/tadarise-60-mg.html"">TADARISE 60 MG</a> is a holy-replica of Tadalafil-based Cialis medicines which are used for blocking PDE5 enzymes and regulating the blood flow in the penises stuck by erectile dysfunction (ED)",ad blocking
+https://gitlab.com/sinadarvi/blocking-car-ai,Blocking car AI project with uninformed and informed searching,ad blocking
+https://gitlab.com/Kooroshh/SpotifyADBlocker,Simple Proxy Server for Blocking Spotify ads,ad blocking
+https://gitlab.com/LukaJelicicLux/euroscipy2018_python_optimization,"EuroScipy 2018 Tutorial ""A tour of python profiling and optimization""",ad profiling
+https://gitlab.com/vinu76jsr/django_profiler,Profiling app for django,ad profiling
+https://gitlab.com/kyxap/jvm-tools,"Small set of tools for JVM troublshooting, monitoring and profiling.",ad profiling
+https://gitlab.com/AntonMeep/profdump,Processes profiling output of the D compiler,ad profiling
+https://gitlab.com/jingwang1/cxtracker,"Connection Tracker is a passive network connection tracker for profiling, history, auditing and network discovery.",ad profiling
+https://gitlab.com/seeekr/flame,An intrusive flamegraph profiling tool for rust.,ad profiling
+https://gitlab.com/hamedbabaeigiglou/PAN2019_bots_gender_profiling,"PAN 2019, Bots and Gender Profiling Task",ad profiling
+https://gitlab.com/muraya/profiling-api,profiling API spring project f,ad profiling
+https://gitlab.com/ali1rathore/data-tools,"Tools for profiling, analyzing, and reporting important statistics from datasets",ad profiling
+https://gitlab.com/artemchernii/spa-idm-2,"O software SPA IDM® - Smart Profiling Application Identity Manager – garante a identificação, 
+gestão e permissão de acessos em aplicações heterogêneas, de uma forma eficiente e segurança.",ad profiling
+https://gitlab.com/artemchernii/spa-idm,Smart Profiling Application Identity Manager,ad profiling
+https://gitlab.com/fr000nc/JVM_Profiling,badly written project to profile :),ad profiling
+https://gitlab.com/qwfys/tcpdive,A TCP performance profiling tool.,ad profiling
+https://gitlab.com/ehemsley/encompass-jprof,lua profiling tool for use with encompass + love2d,ad profiling
+https://gitlab.com/ParkerM/hpc-mpip,Docker image with OpenMPI 1.6.5 and mpiP 3.4.1 for profiling support.,ad profiling
+https://gitlab.com/jeremie.elokence/small-profiler,"Small profiling utility for already running process.
+",ad profiling
+https://gitlab.com/n0mn0m/pyspark-profiling,Examples of using PySpark profiling,ad profiling
+https://gitlab.com/meishijiemeimei/admob-for-flash,admob ane for flash air iOS app and actionscript android app.include banner and Interstitial native Advertising.this Admob ANE suport admob 1 and admob 2,native advertising
+https://gitlab.com/ivanliu1989/AVAZU-CTR-Prediction,"In online advertising, click-through rate (CTR) is a very important metric for evaluating ad performance. As a result, click prediction systems are essential and widely used for sponsored search and real-time bidding.",sponsored advertising
+https://gitlab.com/udtyw156/bloxion,influencer marketing platform,influencer marketing
+https://gitlab.com/williamtrungle/trangxtran,"A personal photographer, blogger, and digital marketing influencer's portfolio",influencer marketing
+https://gitlab.com/kiran.asman/imp,INFLUENCER MARKETING PLATFORM ,influencer marketing
+https://gitlab.com/gopakl/sitsense,"This is a webservice that talks to Pareto in order to get realtime from beacons, so as to make sense of your sitting habits and improve them through analysis",web beacon
+https://gitlab.com/atifzaidi/boomerang,End user oriented web performance testing and beaconing,web beacon
+https://gitlab.com/rstivers/scavenger-hunt,"Scavenger Hunt Web Portal: Mobile/Touch friendly web portal used to place virtual beacons for scavenger hunt app. Stores normalized coordinate data and item tag, data can be accessed via API.",web beacon
+https://gitlab.com/smbale/uribeacon,The Web Uri Open Beacon for the Internet of Things,web beacon
+https://gitlab.com/renatasantosf/promobeacon-web,"Projeto desenvolvido para a disciplina de projeto e desenvolvimento da Faculdade Senac Porto Alegre.
+",web beacon
+https://gitlab.com/andremonteiro/Bonfire,Content distribution based on indoor localization through BLE beacons. Web App and Service are .NET MVC and WCF. Mobile App is Xamarin Forms.,web beacon
+https://gitlab.com/angst7/Phatbeacon,nRF52 implementation of Physical Web Fatbeacon,web beacon
+https://gitlab.com/soundtrack/webapp,"This Web app will display a ""map"" with beacons and target. Directly fetched from a database",web beacon
+https://gitlab.com/nastis/pi_hub,"All code needed to create the raspberry pi hub, that connects via RF24L01 with the arduino beacons, and uses rest api to submit changes to a web server aggragating data.
+",web beacon
+https://gitlab.com/khalifamhmdkhalifa/LocationBasedAdvertisingApplication,Location Based Advertising Application it uses beacon to identify the location and asp web service to access the stores' data...,web beacon
+https://gitlab.com/sdjava/beaconDemo,web beacon,web beacon
+https://gitlab.com/overup/boomerang,End user oriented web performance testing and beaconing,web beacon
+https://gitlab.com/benmosheron/bens-offer-server,"A Scala project using http4s. Runs a simple http server which allows merchants to post limited time, fixed price offers, which can be queried and cancelled.",limited time offer
+https://gitlab.com/VictorOmondi1997/HomeScreen-Website,A timer landing page website. A homepage or landing page with the time that we can interact with and save our name/focus to local storage.,website timer
+https://gitlab.com/sokolovdp/34_timemachine,Timer for Websites That Steal Your Time,website timer
+https://gitlab.com/PavelShturm85/34_timemachine,Timer for Websites That Steal Your Time,website timer
+https://gitlab.com/cubetastic/cubetastic,"Cubetastic is my cubing website, it has lots of cool things, like a web timer with solve-syncing features, and more!",website timer
+https://gitlab.com/blackdotsh/UptimeFlare,"Uses uptimerobot for monitoring, if a website is down, automatically switch the IP of an A record to a backup server's IP",website timer
+https://gitlab.com/R136a1/gnet,"âš¡ï¸�A high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.ğŸ”¥
+https://github.com/panjf2000/gnet",ip blocking
+https://gitlab.com/jcsx/serialport-rs,A cross-platform serial port library in Rust. Provides a blocking I/O interface and port enumeration including USB device information.,ip blocking
+https://gitlab.com/horvaro/HostfileAdBlocker-Windows,Hostfile based AD-Blocking for Windows,ip blocking
+https://gitlab.com/unknowboy1991/matrix,The complete Blocking lists,ip blocking
+https://gitlab.com/johnhandcockandstuff/iDevice-Mobile-Hosts-Blocker,Compilation of hosts blockers for blocking in the DNSCloak iOS application,ip blocking
+https://gitlab.com/Perflyst/cloud-firewall,"Cloud Firewall is a browser extension/addon that allows you to toggle blocking ON or OFF for allowing your browser to connect to web pages and web resources (like images, videos) hosted on popular top 5 cloud/companies",ip blocking
+https://gitlab.com/I201821180/sre-exercise-sample-app,"A Node.js web server with severe event loop blocking challenges, for use with Snyk's SRE practical exercise.",ip blocking
+https://gitlab.com/thatonesysadmin/privacy,"Things pertaining to general privacy, ad blocking, tracking blocking, etc",ip blocking
+https://gitlab.com/digitalarc/ublocklist,This is a public list of ADblocking for uBlock Origin,ip blocking
+https://gitlab.com/genericdays10/tadarise-60-mg,"<a href=""https://www.genericday.com/tadarise-60-mg.html"">TADARISE 60 MG</a> is a holy-replica of Tadalafil-based Cialis medicines which are used for blocking PDE5 enzymes and regulating the blood flow in the penises stuck by erectile dysfunction (ED)",ip blocking
+https://gitlab.com/flapedriza/90dns,NX DNS setup with BIND9 and nginx for blocking all Nintendo servers.,ip blocking
+https://gitlab.com/ferrettim/itsybitsycloud,"ItsyBitsyCloud is a simple project to get a home cloud setup for calendar/contact/file backups, news, network ad blocking, and shared password management up and running quickly on a Raspberry Pi via docker.",ip blocking
+https://gitlab.com/my-privacy-dns/rpz-dns-firewall-tools/hosts,This is where you'll find the rather outdated way of blocking bad guys.,ip blocking
+https://gitlab.com/pizdec/softether-vpn-server-with-adblocking,"SoftEther VPN Server install for Ubuntu/Debian/Centos
+includes adblocking dnsmasq and support for custom opened ports",ip blocking
+https://gitlab.com/mikeramsey/softether-vpn-server-with-adblocking,"SoftEther VPN Server install for Ubuntu/Debian/Centos
+includes adblocking dnsmasq and support for custom opened ports",ip blocking
+https://gitlab.com/fanboystudios/baddieblock-for-pihole,"The Complete PiHole Blacklist For Blocking Bad Things Online Including: Advertisements, Malware, Spyware, Scams, Porn, and Other Undesirable Content!",ip blocking
+https://gitlab.com/owenallsopp/arachnid,Non-blocking HTTP server,ip blocking
+https://gitlab.com/genericnew101/bytadarise-60-mg,"TADARISE  60 MGis a holy-replica of Tadalafil-based Cialis medicines which are used for blocking PDE5 enzymes. Check out <a href=""https://www.genericday.com/tadarise-60-mg.html"">Tadarise 60mg Reviews</a>",ip blocking
+https://gitlab.com/0njzy0/90dns,NX DNS setup with BIND9 and nginx for blocking all Nintendo servers.,ip blocking
+https://gitlab.com/xiaonanhailili/OkSocket,An blocking socket client for Android applications.,ip blocking
+https://gitlab.com/RedisGeek/serialport-rs,A cross-platform serial port library in Rust. Provides a blocking I/O interface and port enumeration including USB device information.,ip blocking
+https://gitlab.com/Hakerh400/ultra-block,Advertisement blocking extension for Google Chrome,ip blocking
+https://gitlab.com/franklopeslr/hiawatha,"Hiawatha is an open source webserver with security, easy to use and lightweight as the three key features. Hiawatha supports among others (Fast)CGI, IPv6, URL rewriting and reverse proxy. It has security features no other webserver has, like blocking SQL injections, XSS and CSRF attacks and exploit attempts. The built-in monitoring tool makes it perfect for large scale deployments.
+
+Hiawatha project website: https://www.hiawatha-webserver.org/",ip blocking
+https://gitlab.com/genericlive/tadarise-60-mg,"TADARISE  60 MGis a holy-replica of Tadalafil-based Cialis medicines which are used for blocking PDE5 enzymes and regulating the blood flow in the penises stuck by erectile dysfunction (ED). Check out <a href=""https://www.genericday.com/tadarise-60-m",ip blocking
+https://gitlab.com/MaxValue/Ad-Filters,Various custom ad-blocking filters with focus on Austrian websites. Tested for use with AdNauseam.,ip blocking
+https://gitlab.com/genericnew101/tadarise-60-mg,"<a href=""https://www.genericday.com/tadarise-60-mg.html"">TADARISE 60 MG</a> is a holy-replica of Tadalafil-based Cialis medicines which are used for blocking PDE5 enzymes and regulating the blood flow in the penises stuck by erectile dysfunction (ED)",ip blocking
+https://gitlab.com/sinadarvi/blocking-car-ai,Blocking car AI project with uninformed and informed searching,ip blocking
+https://gitlab.com/Kooroshh/SpotifyADBlocker,Simple Proxy Server for Blocking Spotify ads,ip blocking
+https://gitlab.com/howar31/prank_credit_card_scan,"Fake credit card scan prank
+https://howar31.gitlab.io/prank_credit_card_scan",fake credit
+https://gitlab.com/gavz/35c3ctf_nokia,"Soruce code, infrastructure and exploits for the 35C3 CTF challenges newphonewhodis and identitytheft",Identity theft
+https://gitlab.com/vladivanov/equifax-breach-remediation-recipe,What to do to protect yourself from identity theft and credit fraud following Equifax secitoty breach.,Identity theft
+https://gitlab.com/Oliichi42/git-me,"Very simple, very straightforward identity management for git and protection against committing in an unintended user.",identity protection
+https://gitlab.com/viga.23/clase-phising,Una breve explicacion de como crear un pishing.,pishing
+https://gitlab.com/jan_marcel/fraud-detection,You are a contract data scientist/consultant hired by a new e-commerce site to try to weed out fraudsters. The company's expences increase if a customer buys tickets for a fraud event. Because by law the refund is expected. ,e-commerce fraud
+https://gitlab.com/empreendedorismodigital/prioriza,Aplicativo que auxilia pessoas com dívidas e que buscam entender sobre finanças pessoais.,scam
+https://gitlab.com/cse-578/beaglevis,Lessons Learned Developing a Visual Analytics Solution for Investigative Analysis of Scamming Activities,scam
+https://gitlab.com/elmer07/leerexce_sopadeletrasl,buscamos una palabra en una matriz Excel,scam
+https://gitlab.com/jdleo/Sagi,"A free Chrome extension that uses deep text analysis to determine if an ICO is a scam or not. Trained against a dataset of confirmed ""legit"" ICOs and confirmed ""scam"" ICOs.",scam
+https://gitlab.com/fanboystudios/baddieblock-for-pihole,"The Complete PiHole Blacklist For Blocking Bad Things Online Including: Advertisements, Malware, Spyware, Scams, Porn, and Other Undesirable Content!",scam
+https://gitlab.com/frnmst-mirrors/fattura-elettronica-reader,"Validate, extract, and generate printables of electronic invoice files received from the ""Sistema di Interscambio"". ",scam
+https://gitlab.com/amaury.feron/security_scampus_projet,"security subject: its a CTF (Capture Of Flag) 
+",scam
+https://gitlab.com/pablosherrerog/bachelorthesiscameracolortracker,Used to track colors from webcam or kinect camera (by default webcam camera (without depth)) and sent the coordinates with UDP.,scam
+https://gitlab.com/clothildepetry/scampi-twig,"Outil simple avec Twig et Sass (bibliothèque Scampi) pour monter des pages statiques. Cet outil servira essentiellement à créer des gabarits d'intégration.
+
+https://pidila.gitlab.io/scampi-twig/",scam
+https://gitlab.com/cordovaproyect/thanoscam,Una simple aplicación con cordova que realiza un efecto difuminado a una foto.,scam
+https://gitlab.com/oksendev/plog,Flutter App for CSCAMP Flutter Sessions,scam
+https://gitlab.com/gt3ch1/rfnb,Just a little fake banking app to mess with scammers,scam
+https://gitlab.com/pronaturaveracruz/siscamtra,Sistema para la identificación de fotografías y videos capturados por cámaras trampa.,scam
+https://gitlab.com/cantry/scamsiteevaluator,check sites if the common scripts images which are copied to many scam sites,scam
+https://gitlab.com/luglioB/blueit-analytics-docker-compose,Repository per lo scambio di docker-compose files,scam
+https://gitlab.com/YohSambre/snte--scammers-list,to understand this list please read first of all this >LINK STEAM,scam
+https://gitlab.com/ecoPortal/devise_invitable,Fork of https://github.com/scambra/devise_invitable,scam
+https://gitlab.com/fvdm/nodejs-foscam,"Remote control, view and config a Foscam or compatible IP camera",scam
+https://gitlab.com/fvdm/FoscamTouch,Touch frontend for Foscam/Tenvis network camera,scam
+https://gitlab.com/akashraj98/fuel-hook,Fuel monitoring system to minimise fuel related scam ,scam
+https://gitlab.com/tusharmalik/fuel-hook,Fuel monitoring system to minimise fuel related scam ,scam
+https://gitlab.com/KaiTiggy/GSCampusMap-iOS,WIP – Georgia Southern Campus Map for iOS,scam
+https://gitlab.com/akashraj98/fuel-hook,Fuel monitoring system to minimise fuel related scam ,scam monitoring
+https://gitlab.com/tusharmalik/fuel-hook,Fuel monitoring system to minimise fuel related scam ,scam monitoring
+https://gitlab.com/deletos/devopscamp-challenge-monitoring,Creating monitoring setup in order to trigger health/sanitychecks to a website  ,scam monitoring
+https://gitlab.com/mapbuh/camera-arm,A script which will disable/enable FOSCAM FL9831W (and few others which use the same CGI API) motion detection whenever certain devices are found in the network.,scam detection
+https://gitlab.com/akashraj98/fuel-hook,Fuel monitoring system to minimise fuel related scam ,scam monitor
+https://gitlab.com/tusharmalik/fuel-hook,Fuel monitoring system to minimise fuel related scam ,scam monitor
+https://gitlab.com/deletos/devopscamp-challenge-monitoring,Creating monitoring setup in order to trigger health/sanitychecks to a website  ,scam monitor
+https://gitlab.com/Guillawme/terms-of-service-CI-boilerplate,Terms of Service or Privacy Policy Boilerplate using Latex & Markdown with  Gitlab Continuous Integration,terms of service
+https://gitlab.com/Palmberg/tosplainer,Chrome extension for shortening terms of service text,terms of service
+https://gitlab.com/MindsGaming/terms-of-service,Official documentation of Minds policies. ,terms of service
+https://gitlab.com/valleylion/terms-of-service,Official documentation of Minds policies. ,terms of service
+https://gitlab.com/komal.traveltourister/hotel-booking-in-nagpur,"We renders hotel services to our clients in widely manner depends on the preference of our clients in terms of reception,guests room services including food services as well accommodations in the best manner.
+http://www.aranyatours.com/our-services/h",terms of service
+https://gitlab.com/medworthy/terms-of-service,Official documentation of Minds policies. ,terms of service
+https://gitlab.com/neetu.traveltourister/air-ticket-booking-agent-in-kolkata,"We provides the best services in terms of the domestic as well international ticketing for our clients to makes your trip hassle and comfortable in your lifetime http://www.vedahamtourstravels.in/services/air-ticketing
+",terms of service
+https://gitlab.com/neetu.traveltourister/tour-operators-in-kolkata,"We offers the best tour packages in terms of the accommodations, foods and cuisine, sightseeing and booking of their trip for domestic as well international airlines to makes your trip http://www.vedahamtourstravels.in/services/tour-operator
+",terms of service
+https://gitlab.com/minds/terms-of-service,Official documentation of Minds policies. ,terms of service
+https://gitlab.com/komal.traveltourister/hotel-booking-agent-in-andaman,"We provides the best accommodations where you have the best services and makes your trip the most best and high quality services in terms of stays and foods.
+http://www.travelagentinportblair.com/services/hotel-booking",terms of service
+https://gitlab.com/AdrienneCohea/phoenixcommunity,"An exercise in pissing off bootlicking capitalists who want to enforce ""terms of service"" or some bullshit.",terms of service
+https://gitlab.com/LeeDoHyun/terms-of-service,SwiftNode Terms of Service,terms of service
+https://gitlab.com/Spence/Hybrid-Cloud-Applications-and-Services,"A hybrid cloud model blends elements of both the private and the public cloud. In the simplest terms, the hybrid model is primarily a private cloud that allows an organization to tap into a public cloud when and where it makes sense. This code shows you how to expose your on-premise applications and services to public cloud, and vice versa.",terms of service
+https://gitlab.com/jankovec/deal-steal,Web service for comparing online sales offers in terms of quality and affordability relative to other offers.,terms of service
+https://gitlab.com/milton_rincon/website-terms-of-service,html website with a dummy of terms and conditions of service: https://miltonrincon.github.io/website-terms-of-service/,terms of service
+https://gitlab.com/HammondCaseyM/terms-of-service-game,Game based on Vue.js that helps to educate about terms of service,terms of service
+https://gitlab.com/jake-windle/terms-of-service-game,Game based on Vue.js that helps to educate about terms of service,terms of service
+https://gitlab.com/Druzyna-A/KnowledgeBase,3rd RSI module - knowledge base. Integration with 3rd party services and websites in terms of information about products/services offered by RSI project.,terms of service
+https://gitlab.com/vfulco/terms-of-service-CI-boilerplate,Terms of Service or Privacy Policy Boilerplate using Latex & Markdown with  Gitlab Continuous Integration,terms of service
+https://gitlab.com/Zipier/legal,"Publicly accessible master copy of Zipier's Terms of Service (ToS), Privacy policy, and Copyright policy.",terms of service
+https://gitlab.com/dimitrieh/terms-of-service-CI-boilerplate,Terms of Service or Privacy Policy Boilerplate using Latex & Markdown with  Gitlab Continuous Integration,terms of service
+https://gitlab.com/BITS-Pilani-Hyderabad-Campus/Bits-Internet-Accessibility-Supervisor,Monitors Internet activity in the campus with automated login for Windows.,Internet accessibility
 https://gitlab.com/563712793/axe-core,Accessibility engine for automated Web UI testing,web accessibility
 https://gitlab.com/radhefa2/wcag,Web Content Accessibility Guidelines,web accessibility
 https://gitlab.com/jnickgo/axe-selenium-webdriver,An exploratory sample application that utilized Selenium WebDriver and aXe for automated accessibility testing.,web accessibility
@@ -69,18 +266,4 @@ https://gitlab.com/101-side/accessibility,Web Accessibility,web accessibility
 https://gitlab.com/pikselkraft/npm-scripts-boilerplate-XL,"This boilerplate is made for the front-end developer who wants to develop 100% custom template. It uses the last web standards and focuses on quality, accessibility and workflow optimisation.",web accessibility
 https://gitlab.com/18runt88/wcag-em-report-tool,Interactive Guide to Assist Managing Web Accessibility Evaluations,web accessibility
 https://gitlab.com/johnantoni/axe-core,Accessibility engine for automated Web UI testing,web accessibility
-https://gitlab.com/Oliichi42/git-me,"Very simple, very straightforward identity management for git and protection against committing in an unintended user.",identity protection
-https://gitlab.com/atifzaidi/boomerang,End user oriented web performance testing and beaconing,web beacon
-https://gitlab.com/rstivers/scavenger-hunt,"Scavenger Hunt Web Portal: Mobile/Touch friendly web portal used to place virtual beacons for scavenger hunt app. Stores normalized coordinate data and item tag, data can be accessed via API.",web beacon
-https://gitlab.com/komorowskik/bluetooth-sniffer,A small Raspberry Pi project sniffing nearby bluetooth beacons and displaying statistics about them on a simple website,web beacon
-https://gitlab.com/smbale/uribeacon,The Web Uri Open Beacon for the Internet of Things,web beacon
-https://gitlab.com/renatasantosf/promobeacon-web,"Projeto desenvolvido para a disciplina de projeto e desenvolvimento da Faculdade Senac Porto Alegre.
-",web beacon
-https://gitlab.com/angst7/Phatbeacon,nRF52 implementation of Physical Web Fatbeacon,web beacon
-https://gitlab.com/soundtrack/webapp,"This Web app will display a ""map"" with beacons and target. Directly fetched from a database",web beacon
-https://gitlab.com/nastis/pi_hub,"All code needed to create the raspberry pi hub, that connects via RF24L01 with the arduino beacons, and uses rest api to submit changes to a web server aggragating data.
-",web beacon
-https://gitlab.com/khalifamhmdkhalifa/LocationBasedAdvertisingApplication,Location Based Advertising Application it uses beacon to identify the location and asp web service to access the stores' data...,web beacon
-https://gitlab.com/sdjava/beaconDemo,web beacon,web beacon
-https://gitlab.com/overup/boomerang,End user oriented web performance testing and beaconing,web beacon
-https://gitlab.com/Jamesking56/BeaconFramework,The web framework used for *most* client web projects by Beacon Studios.,web beacon
+https://gitlab.com/vigou3/ime-2017-insurance-of-things,"A foray into the Insurance of Things, Or pricing individual objects without prior data - IME 2017",individual pricing
