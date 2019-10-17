@@ -1,82 +1,114 @@
-group of topics that share something in common (not sure what exactly yet),description/definitions,TOPIC,source of the description,different terms used to describe the same topic,keywords,source where the search string was used,Comments for discussion,,On yellow are the groups that are tempatively welll grouped
+group of topics that share something in common,description/definitions,TOPIC,different terms used to describe the same topic,keywords
+Web Evidence,tools that help to record different states of the internet,Internet snaps and internet archives,wayback machine,wayback machine
+,,,internet snap,internet snap
+,,,webpage snap,webpage snap
+,,,programmed screenshot,programmed screenshot
+,,,automatic screenshot,automatic screenshot
+,,,screenshot,screenshot
+,,,internet versions,internet versions
+,,,internet archive,internet archive
+,,Domain registries,domain validity,domain validity
+,,,domain registries,domain registries
+,,,domain monitoring,domain monitoring
 Advertising,"practices used by traders (either directly or through paid intermediaries) in order to increase the sale of their products or services
-",market monitoring,,market monitoring,market monitoring,,,,
-,,behavioural tracking,,behavioural tracking,consumer profiling algorithm,Arxiv,Shall we ad dark patterns on this category,,
-,,,,behavioral profiling,behavioral profiling,,,,
-,,,,behavioral targeting,behavioral targeting,,,,
-,,,,targeted advertising,targeted advertising,,,,
-,,,,website monitoring,website monitoring,,,,
-,,,,website tracking,website tracking,Arxiv,,,
-,,,,cookie monitoring,cookie monitoring,Arxiv,,,
-,,,,cookie tracking,cookie tracking,Arxiv,,,
-,,misleading advertising ,,ad blocking,ad blocking,EU Patents Database,,,
-,,,,ad profiling,ad profiling,,,,
-,,,,false advertising,false advertising,Arxiv,,,
-,,,,illegal advertising,illegal advertising,Arxiv,,,
-,,,,misleading advertising,misleading advertising,Arxiv,,,
-,,,,aggressive advertisement,aggressive advertisement,,,,
-,,native advertising,,native advertising,native advertising,,,,
-,,sponsored advertising,,sponsored advertising,sponsored advertising,,,,
-,,social media issues,,fake followers,fake followers,,,,
-,,,,influencer marketing,influencer marketing,,,,
-,,positive fake reviews,,detecting fake reviews,detecting fake reviews,Web of Science Database,,,
-,,,,detecting fake reviews,fake review detection,Arxiv,,,
-,,,,tracking fake reviews,tracking fake reviews,,,,
-,,Use of web beacon to track user behaviour,,Web beacon,web beacon behavioral tracking,EU Patents Database,,,
-,,,,Web beacon,web beacon,Arxiv,"Web beacon is the technology not a topic perse, but actually could be use for personal pricing or missleading advertising",,
-Scarcity cues,Methods used to indicate that the an offer is only available during a limited time,Limited time offer in online shop (Scarcity cues),,limited time offer,limited time offer,,Are scarcity cues practices actually aggresive advertisement?,,
-,,,,website timer,website timer,,,,
-Geoblocking,is technology that restricts access to Internet content based upon the user's geographical location,Geoblocking,,geoblocking,geoblocking,DBLP,,,
-,,,,IP blocking,ip blocking,Github,,,
-Scam (Online Fraud),other (illegal) methods used to unfairly disadvantage consumers,Financial online fraud,,cloned firms (online cases),cloned firms scam,,,,
-,,,,boiler room (financial products fraud),boiler room scam,,,,
-,,,,recovery room,recovery room scam,,,,
-,,,,Credit Scams,credit scam,,,,
-,,,,Online Auctions scam,auction+scam,Github,,,
-,,,,fake or false credits (alike pishing),fake credit,,,,
-,,Identity Theft,,False/Fake consumers,fake consumer,,,,
-,,,,Impersonating a consumer,fake consumer detection,,,,
-,,,,identity theft,Identity theft,Web of Science Database,,,
-,,,,identity theft,Identity theft  detection,Web of Science Database,,,
-,,,,identity theft,Identity theft monitor,Web of Science Database,,,
-,,,,identity protection,identity protection,Arxiv,,,
-,,,,identity theft,monitoring identity theft,Github,,,
-,,General scam ,,pishing,pishing,Arxiv,,,
-,,,,pishing,pishing detection,,,,
-,,,,pishing,pishing monitoring,,,,
-,,,,online fraud,detecting e-commerce,,,,
-,,,,online fraud,e-commerce fraud,Arxiv,,,
-,,,,online fraud,online law enforcement,Arxiv,,,
-,,,,online fraud,online shopping fraud,Arxiv,,,
-,,,,online fraud,online shopping law enforcement,Arxiv,,,
-,,,,scam,scam,EU Patents Database,,,
-,,,,scam,scam monitoring,Github,,,
-,,,,scam,scam detection,Web of Science Database,,,
-,,,,scam,scam monitor,Web of Science Database,,,
-,,,,False/Fake medical promises,detect fake advise,,,,
-,,,,False/Fake gambling chances/advise,detect fake advise,,,,
-,,,,digital fraud,ai consumer fraud online,Arxiv,,,
+",Market monitoring,market monitoring,market monitoring
+,,Behavioural tracking,behavioural tracking,consumer profiling algorithm
+,,,behavioral profiling,behavioral profiling
+,,,behavioral targeting,behavioral targeting
+,,,targeted advertising,targeted advertising
+,,,website monitoring,website monitoring
+,,,website tracking,website tracking
+,,HTTP Cookies,cookie monitoring,cookie monitoring
+,,,cookie tracking,cookie tracking
+,,Misleading advertising ,ad blocking,ad blocking
+,,,ad profiling,ad profiling
+,,,false advertising,false advertising
+,,,illegal advertising,illegal advertising
+,,,misleading advertising,misleading advertising
+,,,aggressive advertisement,aggressive advertisement
+,,Social media issues,sponsored advertising,sponsored advertising
+,,,fake followers,fake followers
+,,,influencer disclosure,influencer disclosure
+,,,influencer marketing,influencer marketing
+,,Fake reviews,detecting fake reviews,detecting fake reviews
+,,,detecting fake reviews,fake review detection
+,,,tracking fake reviews,tracking fake reviews
+,,Web beacon tracker,Web beacon,web beacon behavioral tracking
+,,,Web beacon,web beacon
+Dark Patterns,"user interface design choices that benefit an online service by coercing, steering, or deceiving users into making unintended and potentially harmful decisions",Sneaking,hidden cost detection,hidden cost detection
+,,,hidden subscription block,hidden subscription block
+,,,sneak into basket block,sneak into basket block
+,,Urgency,countdown timer,countdown timer
+,,,limited time message,limited time message
+,,MIsdirection,comfirmshaming,comfirmshaming
+,,,pressured selling,pressured selling
+,,Social proof,fake testimonials,fake testimonials
+,,,fake testimonial detection,fake testimonial detection
+,,Scarcity,low stock message,low stock message
+,,,scarcity cues,scarcity cues
+,,,detect high demand message,detect high demand message
+,,Obstruction,hard to cancel subscription,hard to cancel subscription
+,,Forced Action,forced enrollment websites,forced enrollment websites
+,,,forced enrollment detection,forced enrollment detection
+,,,website timer,website timer
+Geoblocking,is technology that restricts access to Internet content based upon the user's geographical location,Geoblocking,geoblocking,geoblocking
+,,,IP blocking,ip blocking
+,,VPN,VPN access,privacy browser
+,,,VPN access,privacy extension
+,,,VPN access,vpn alternative
+,,,VPN access,free vpn
+,,,VPN access,change ip vpn
+Scam (Online Fraud),other (illegal) methods used to unfairly disadvantage consumers,Financial online fraud,cloned firms (online cases),cloned firms scam
+,,,boiler room (financial products fraud),boiler room scam
+,,,recovery room,recovery room scam
+,,,Credit Scams,credit scam
+,,,Online Auctions scam,auction scam
+,,,fake or false credits (alike pishing),fake credit
+,,Identity Theft,False/Fake consumers,fake consumer
+,,,Impersonating a consumer,fake consumer detection
+,,,identity theft,Identity theft
+,,,identity theft,Identity theft  detection
+,,,identity theft,Identity theft monitor
+,,,identity protection,identity protection
+,,,identity theft,monitoring identity theft
+,,General scam ,pishing,pishing
+,,,pishing,pishing detection
+,,,pishing,pishing monitoring
+,,,online fraud,detecting e-commerce
+,,,online fraud,e-commerce fraud
+,,,online fraud,online law enforcement
+,,,online fraud,online shopping fraud
+,,,online fraud,online shopping law enforcement
+,,,scam,scam
+,,,scam,scam monitoring
+,,,scam,scam detection
+,,,scam,scam monitor
+,,,False/Fake medical promises,detect fake advise
+,,,False/Fake gambling chances/advise,detect fake advise
+,,,digital fraud,ai consumer fraud online
 Unfair terms issues,"contract terms that significantly limit the rights of the consumer under the applicable law
-",Consumer protection to unfair terms,,analyzing privacy policies,analyzing privacy policies,,,,
-,,,,consumer protection,consumer protection,Arxiv,,,
-,,General terms and conditions,,terms of service,terms of service,,,,
-,,,,unfair terms,unfair terms,Arxiv,,,
-Failure of Web accessibility,"not taking reasonable measures to allow impaired persons to use the website 
-",Web accessibility,,internet accessibility,Internet accessibility,HeinOnline database,,,
-,,,,web accessibility,web accessibility,Arxiv,,,
+",Consumer protection to unfair terms,analyzing privacy policies,analyzing privacy policies
+,,,consumer protection,consumer protection
+,,General terms and conditions,terms of service,terms of service
+,,,unfair terms,unfair terms
 Price Transparency Issues,"sing different prices for different types of customers without making clear the criteria that determine the difference
-",personal pricing,,individual pricing,individual pricing,EU Patents Database,,,
-,,,,individual pricing,monitoring individual pricing,Github,,,
-,,,,personal pricing,monitoring personal pricing,Github,,,
-,,,,personal pricing,personal pricing,Github,,,
-,,,,personal pricing,e-commerce fraud pricing,Arxiv,,,
-,,price discrimination,,price discrimination,algorithm detect unfair pricing website,Arxiv,,,
-,,,,price discrimination,price discrimination,Github,,,
-,,,,price discrimination,price discrimination detection,Web of Science Database,,,
-,,,,price discrimination,price discrimination algorithm,Arxiv,,,
-Compliance,all issues related with non compliance of online services,short withdrawal period,,short withdrawal period,short withdrawal period,,,,
-,,withdrawal right not mentioned,,withdrawal rights,withdrawal rights,,,,
-,,False information about right of withdrawal,,withdrawal rights disclaimer,withdrawal rights disclaimer,,,,
-,,Compliance with Mandatory Disclosures,,mandatory disclosures detection,mandatory disclosures detection,,,,
-,, Non-compliance with information obligations,,non-compliance with information obligations,non-compliance with information obligations,,,,
-,,Do-Not-Call Registry violations,,Do-Not-Call Registry violations,do-not-call registry,EU Patents Database,,,
+",Personal pricing,individual pricing,individual pricing
+,,,individual pricing,monitoring individual pricing
+,,,personal pricing,monitoring personal pricing
+,,,personal pricing,personal pricing
+,,,personal pricing,e-commerce fraud pricing
+,,Price discrimination,price discrimination,algorithm detect unfair pricing website
+,,,price discrimination,price discrimination
+,,,price discrimination,price discrimination detection
+,,,price discrimination,product price change
+,,,price discrimination,price changes detection
+,,,price discrimination,price discrimination algorithm
+Compliance,"all issues related with non compliance of online services, and not taking reasonable measures to allow impaired persons to use the website 
+",Withdrawal issues,short withdrawal period,short withdrawal period
+,,,withdrawal rights,withdrawal rights
+,,,withdrawal rights disclaimer,withdrawal rights disclaimer
+,,Failure of Web accessibility,internet accessibility,Internet accessibility
+,,,web accessibility,web accessibility
+,,Compliance and obligations,mandatory disclosures detection,mandatory disclosures detection
+,,,non-compliance with information obligations,non-compliance with information obligations
+,,,Do-Not-Call Registry violations,do-not-call registry

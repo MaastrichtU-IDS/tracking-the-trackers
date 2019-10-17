@@ -1,3 +1,116 @@
+https://gitlab.com/ivanruvalcaba/wayback-machine-archiver,A program to backup of web pages and get its status with Internet Archive (Wayback Machine).,wayback machine
+https://gitlab.com/UpDownUp/8ch-archiver,"Takes any 8ch board and sends its entire catalog to the Wayback Machine.
+Made in /egy/.",wayback machine
+https://gitlab.com/colethedj/yt-wayback,"Download archived YouTube channels, playlists and videos from the Wayback Machine",wayback machine
+https://gitlab.com/SuperFromND/site-converts,"Local copies of websites from the early-to-mid 2000s, with all traces of the Wayback Machine removed.",wayback machine
+https://gitlab.com/caus-solutions/icontact-through-wayback-machine,"This project is to add a viewer for iContact archived messages that are saved on the internet archive's wayback machine.
+
+It re-writes links to go to live sites and to skip iContact monitor links.",wayback machine
+https://gitlab.com/czenzel/FightCyberstalking-WaybackMachine,A way to fight cyberstalking - responding to an article on FightCyberstalking.org and Wayback Machine - call for action with Autism - code from live YouTube video.,wayback machine
+https://gitlab.com/gkrishnaks/WaybackEverywhere-Chrome,Addon to auto-redirects all pages opened from Twitter/other feeds to their archived versions in Wayback Machine + Auto-save if not yet archived. Sites in update-able Excludes list don't get redirected to Wayback Machine,wayback machine
+https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox,Addon to auto-redirects all pages opened from Twitter/other feeds to their archived versions in Wayback Machine + Auto-save if not yet archived. Sites in update-able Excludes list don't get redirected to Wayback Machine,wayback machine
+https://gitlab.com/pbeliveau/wayback,Submit urls to the Wayback Machine from your terminal with bash.,wayback machine
+https://gitlab.com/gdamdam/saitan,"Saitan allows you to save a webpage from the Internet to a web archiving tool like the Internet Archive’s Wayback Machine and archive.is. Saitan allows you also to download a local copy of the page, and all its components in a WARC file, it can timestamp it to prove that the file existed prior to some point in time.",wayback machine
+https://gitlab.com/hrbrmstr/wayback,:rewind: Tools to Work with the Various Internet Archive Wayback Machine APIs,wayback machine
+https://gitlab.com/littlefork/littlefork-plugin-wayback-machine,Look up websites in the wayback machine of archive.org.,wayback machine
+https://gitlab.com/oytunistrator/waybackpack,Download the entire Wayback Machine archive for a given URL.,wayback machine
+https://gitlab.com/mohamed.mahmoud.ahmed/playing-with-selenium-on-gitlab-ci,Sandbox project to figure out automatic Selenium screenshots for each step/command/action,automatic screenshot
+https://gitlab.com/atifzaidi/tlapse,:camera: Create a timelapse of your web development... or just automatically take screenshots of your hard work ;),automatic screenshot
+https://gitlab.com/Shabnam.3005khan/playing-with-selenium-on-gitlab-ci,Sandbox project to figure out automatic Selenium screenshots for each step/command/action,automatic screenshot
+https://gitlab.com/esai256/git-screen-diff,Automatically taking 2 Screenshots of the same repository out of different branches.,automatic screenshot
+https://gitlab.com/pserwylo/annotate-android-strings,"Make translating Android apps better for humans by automatically taking screenshots, annotating English strings, then uploading to Weblate.",automatic screenshot
+https://gitlab.com/amarnath.rayudu/livepro,"Sample page object model with end-to-end implementation
+with Java, TestNG, WebDriver, log4j2 and Maven
+with custom listener and automatic logging/screenshots",automatic screenshot
+https://gitlab.com/obiescode/playing-with-selenium-on-gitlab-ci,Sandbox project to figure out automatic Selenium screenshots for each step/command/action,automatic screenshot
+https://gitlab.com/soruly/TimeSnap,Windows automatic screenshot tool,automatic screenshot
+https://gitlab.com/MadLittleMods/playing-with-selenium-on-gitlab-ci,Sandbox project to figure out automatic Selenium screenshots for each step/command/action,automatic screenshot
+https://gitlab.com/thenaterhood/gscreenshot,Automatically exported from code.google.com/p/gscreenshot,automatic screenshot
+https://gitlab.com/asdofindia/screenlog,Automatically take screenshots of your linux environment at set interval of time. Free software under GPLv3.,automatic screenshot
+https://gitlab.com/scotmatson/eyewitness,"EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible. https://www.christophertruncer.com/eyewitness-usage-guide/",screenshot
+https://gitlab.com/ba41ee22c5d8/redstone-computer-images,Screenshots of my redstone computer,screenshot
+https://gitlab.com/HarshwardhanSingh/learn-docker,This is a ruby-selenium docker image to capture screenshots of the url using selenium.,screenshot
+https://gitlab.com/ouvaco/screenshot-uploader,Uploads desktop screenshot to Amazon S3.,screenshot
+https://gitlab.com/Coadiey/instant-screenshot-chef,App,screenshot
+https://gitlab.com/wade47842/flameshot,Powerful yet simple to use screenshot software,screenshot
+https://gitlab.com/HongjiangHuang/CloudScreenshots,"åˆ©ç”¨nodejsè·Ÿphantomjs,çš„ç½‘ç«™é«˜é€Ÿå¿«ç…§å·¥å…·,å�¯ä»¥æ—¶æ—¶çš„ç›‘æ�§ç½‘ç«™çš„UIå�˜åŒ–,åˆ©ç”¨è¿™ä¸€ç‚¹.å�¯ä»¥é‡‡é›†æ¼‚äº®çš„ç½‘é¡µçš„ç´ æ��å›¾ç‰‡,ä»¥å�Šæ‰¹é‡�ç›‘æ�§ç½‘ç«™,å‡ºæ�¥é”™è¯¯å�Šæ—¶æŠ¥è­¦",screenshot
+https://gitlab.com/ag.giri.hartono/Instagram-clone,An Instagram-clone with my own flavors and features. Screenshots below!! ğŸ˜�ğŸ˜…ğŸ˜†ğŸ‘�ğŸ™�ğŸ�»ğŸ“¸ğŸ’�â˜¢ï¸�ğŸ�³ï¸�â€�ğŸŒˆğŸ¤�,screenshot
+https://gitlab.com/medoix/screencap,Cross platform electron screenshot capture tool that allows you to post the images to a number of places including your own endpoint.,screenshot
+https://gitlab.com/d066y/EyeWitness,"EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.",screenshot
+https://gitlab.com/korczis/capybara-screenshot,Automatically save screen shots when a Cucumber Capybara scenario fails,screenshot
+https://gitlab.com/Bekkere/EyeWitness,"EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.",screenshot
+https://gitlab.com/kyeastmood/packuru-screenshots,Screenshots of Packuru,screenshot
+https://gitlab.com/malago/d3gem,"Prototype of a item market platform for Diablo III. It was discontinued due to the removal of trading in the game when version 2.0 came out.
+See this link for screenshots and more details: https://www.reddit.com/r/Diablo/comments/7ljje5/d3gem_the_unf",screenshot
+https://gitlab.com/riosun269/screenshot,Take screenshot using selenium,screenshot
+https://gitlab.com/ShravyaReddy/powerbi-basic-asessment,Screenshots of powerBI basics asessment.,screenshot
+https://gitlab.com/ivankulezic/screenshotasaservice,Implementation of backend service for capturing a screenshots.,screenshot
+https://gitlab.com/jpsuldo1/webshotter,A very simple Python script to take screenshots of websites,screenshot
+https://gitlab.com/jpsuldo1/PyLoggy,"A python keylogger that does more than any other keylogger - Key logger, Clicks logger and Screenshots",screenshot
+https://gitlab.com/jpsuldo1/gowitness,"ğŸ”� gowitness - a golang, web screenshot utility using Chrome Headless",screenshot
+https://gitlab.com/jpsuldo1/EyeWitness,"EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.",screenshot
+https://gitlab.com/naturalis/mii/screenshot-wall,Screenshot wall toont live screenshots van alle interactives in het museum,screenshot
+https://gitlab.com/purplg/screenshot,Bash script layer for maim screenshot utility,screenshot
+https://gitlab.com/andrzej-szymanik/screenshooter,C# application to create screenshots from multiple monitors.,screenshot
+https://gitlab.com/enhbold/tcp-screenshot-monitoring-server-client,TCP Screenshot Monitoring server client demo project ,screenshot
+https://gitlab.com/xiaonanhailili/html2canvas,Screenshots with JavaScript,screenshot
+https://gitlab.com/xiaonanhailili/AndroidScreenShot_SysApi,é��å¸¸ä¼˜é›…çš„æ–¹æ¡ˆå®�ç�°å±�å¹•æˆªå›¾ï¼Œåˆ©ç”¨android 5.0ä¹‹å��çš„å½•å±�APIå®�ç�°æˆªå±�ã€‚,screenshot
+https://gitlab.com/rluna-open-source/security/bitwarden/brand,"Logos, icons, screenshots, and other media related to the Bitwarden brand. https://bitwarden.com",screenshot
+https://gitlab.com/capturer/Capturer-py,Simple windows screenshoter,screenshot
+https://gitlab.com/zeue-oss/unnamed.group/media,"Screenshots, animations, videos... You name it!",screenshot
+https://gitlab.com/unixbhaskar/muttwiki,Putting configs and screenshots,screenshot
+https://gitlab.com/Notex/ScreenshotBASH,Screenshot-upload solution made in BASH,screenshot
+https://gitlab.com/KatouMegumi_osu/maidragon-prerolls,"The screenshots of prerolls from anime ""Kobayashi-san Chi no Maid Dragon"". Taken from BD reencodes from RH",screenshot
+https://gitlab.com/c.chamandana/DevCamera,Navigate in your Game Environment and take Screenshots without effort,screenshot
+https://gitlab.com/jakub-burek/polynomialsderivative,"Project is written in Java.
+It has several versions, each added new functionality or explored different Java/Internet programming aspects.
+Application also has mobile, Android, version.
+Java Programming project, 5 semester.",internet versions
+https://gitlab.com/tloki/no-internet-reboot,"Reboot device (supposedly OpenWRT system/router) if there is no internet. Written in bash (so one should be installed).
+
+Future versions shoud support ash.",internet versions
+https://gitlab.com/ivanruvalcaba/wayback-machine-archiver,A program to backup of web pages and get its status with Internet Archive (Wayback Machine).,internet archive
+https://gitlab.com/eythian/warc-uploader,"A tool to upload grab-site downloaded archives to the Internet Archive
+",internet archive
+https://gitlab.com/SchwabischesBauernbrot/internetarchive-cli,A Python and Command-Line Interface to Archive.org,internet archive
+https://gitlab.com/atifzaidi/httparchive,"The HTTP Archive provides information about website performance such as # of HTTP requests, use of gzip, and amount of JavaScript. This information is recorded over time revealing trends in how the Internet is performing. Built using Open Source software, the code and data are available to everyone allowing researchers large and small to work from a common base.",internet archive
+https://gitlab.com/caus-solutions/icontact-through-wayback-machine,"This project is to add a viewer for iContact archived messages that are saved on the internet archive's wayback machine.
+
+It re-writes links to go to live sites and to skip iContact monitor links.",internet archive
+https://gitlab.com/hubeizcl/heritrix3,"Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.  ",internet archive
+https://gitlab.com/Spence/OGraphr,"A Wordpress plugin that automatically retrieves images from embedded media-players and includes them as Open Graph compatible thumbnails to be displayed on Facebook, Google+ and other social networks. Supports over 20 players, including YouTube, Vimeo, Dailymotion, SoundCloud, Bandcamp, Flickr, Hulu, Ustream and Internet Archive.",internet archive
+https://gitlab.com/zanny/comic-scrapes,"Python scripts to scrape webcomics I read. Too often the single point of failure hosting site goes away and the comic is lost, and the Internet Archive doesn't always save images. So I'm most likely to scrape comics that are more obscure.",internet archive
+https://gitlab.com/Sterophonick/Emulators-On-GBA,A mirror/archive for all the homebrew emulators that have been released to the internet that I have been able to find.,internet archive
+https://gitlab.com/bedriguler/dweb-transport,Internet Archive Decentralized Web Common API,internet archive
+https://gitlab.com/gdamdam/saitan,"Saitan allows you to save a webpage from the Internet to a web archiving tool like the Internet Archive’s Wayback Machine and archive.is. Saitan allows you also to download a local copy of the page, and all its components in a WARC file, it can timestamp it to prove that the file existed prior to some point in time.",internet archive
+https://gitlab.com/gdamdam/iagitup,"A small tool to archive a GitHub repository on the Internet Archive. The script downloads the GitHub repository, creates a git bundle and uploads it on archive.org in a timestamped item. With nice description and metadata!",internet archive
+https://gitlab.com/hrbrmstr/wayback,:rewind: Tools to Work with the Various Internet Archive Wayback Machine APIs,internet archive
+https://gitlab.com/hrbrmstr/newsflash,Tools to Work with the Internet Archive and GDELT Television Explorer in R,internet archive
+https://gitlab.com/rpiguru/scribe-redux,Clone of https://github.com/internetarchive/scribe-redux,internet archive
+https://gitlab.com/unityversity/InternetVARchive,"InternetVARchive lets you visit the Internet Archive in AR and VR, overlaying interactive info in person and providing a visitable VR version with the AR overlays accessible through the Archive web site and virtual social worlds.",internet archive
+https://gitlab.com/SANREMEMBER/jekyll-arsip,"Cara singkat penyematan media, dari Internet Archive ke Jekyll",internet archive
+https://gitlab.com/sunny256/IA.BAK,"We back up a lot of stuff from around the web; now it's time to back up the Internet Archive, just in case.",internet archive
+https://gitlab.com/iabak/IA.BAK,"Backup the Internet Archive with git-annex, http://archiveteam.org/index.php?title=INTERNETARCHIVE.BAK/git-annex_implementation",internet archive
+https://gitlab.com/beaglebox/beaglebox,"Note: This project has been superseded by PiBox.  BeagleBox is no longer under development but is left here for reference (and possible future consideration).
+
+BeagleBox is an Internet-based video system based on the BeagleBoard that is intended for use with TV's that do not support streaming network video. BeagleBox is intended to utilize hardware accelerated graphics features of the OMAP3530 to enhance the end user experience.
+
+BeagleBox is a metabuild system incorporating multiple open source software components: a cross toolchain (Crosstool-NG), bootloader (Das U-Boot), Linux kernel and root file system (Buildroot). BeagleBox builds all software components using local archives to speed rebuilds and testing.  
+
+The build system is based on GNU Make. The system is designed to allow easy experimentation with a variety of sources for these software components.
+
+An important goal of BeagleBox is to provide a stripped down GNU/Linux distribution that is not based on existing distributions.
+
+An add-on component, integrated into the Buildroot component build, is BUI. BUI is a port of Matchbox that serves as the UI environment for BeagleBox.
+
+BeagleBox development is based on Angstrom build system recipes, information from eLinux.org and TI's online communities and contributions from many helpful members of the BeagleBoard community.
+",internet archive
+https://gitlab.com/jmutkawoa/nagval,Nagios/Icinga plugin to check validity of one or more DNSSEC domains,domain validity
+https://gitlab.com/mparvin/DVCB,Domain validity check in Bash with Telegram notification,domain validity
+https://gitlab.com/andreasbank/dnamechecker,Check the validity of a domain name,domain validity
+https://gitlab.com/shyran/dnsmon,"The RIPE NCC DNS Monitoring Service (DNSMON) provides a comprehensive, objective and up-to-date overview of the quality of the service offered by high-level Domain Name System (DNS) servers.",domain monitoring
+https://gitlab.com/jamie-cyc/domain-monitor,A domain name expiry monitoring and reporting tool written in PHP.,domain monitoring
+https://gitlab.com/gavz/DomainCheck,"DomainCheck is designed to assist operators with monitoring changes related to their domain names. This includes negative changes in categorization, VirusTotal detections, and appearances on malware blacklists. DomainCheck currently works only with NameCheap.",domain monitoring
 https://gitlab.com/infamoustrey/stockify,A stock market monitoring web app,market monitoring
 https://gitlab.com/magicokeys/web-ams,Website for Attendance Monitoring System,website monitoring
 https://gitlab.com/tolster710/slackbot_template,"Contains boilerplate for slack website/URL monitoring service.
@@ -45,6 +158,7 @@ https://gitlab.com/radek-sprta/vigil,Vigil is a website monitoring command-line 
 https://gitlab.com/gpestana/web_monitor,monitoring tool for web site administrators for detecting problems on websites,website monitoring
 https://gitlab.com/rdomingonl/sitemonitoring-production,free open source website monitoring software,website monitoring
 https://gitlab.com/wkm/Axirassa,A now-defunct project to create a website uptime monitoring service,website monitoring
+https://gitlab.com/blackdotsh/UptimeFlare,"Uses uptimerobot for monitoring, if a website is down, automatically switch the IP of an A record to a backup server's IP",website monitoring
 https://gitlab.com/c12f20/affiliateapp-android,A general affiliate application to view/tracking products from multiple affiliate website.,website tracking
 https://gitlab.com/eiglow/pikatrack,Activity tracking website primarily for running and cycling.,website tracking
 https://gitlab.com/pokeguru87/deep-dungeon-tracker,A website for tracking Deep Dungeon experience in Final Fantasy XIV for all classes simultanously.,website tracking
@@ -112,6 +226,15 @@ https://gitlab.com/MaxValue/Ad-Filters,Various custom ad-blocking filters with f
 https://gitlab.com/genericnew101/tadarise-60-mg,"<a href=""https://www.genericday.com/tadarise-60-mg.html"">TADARISE 60 MG</a> is a holy-replica of Tadalafil-based Cialis medicines which are used for blocking PDE5 enzymes and regulating the blood flow in the penises stuck by erectile dysfunction (ED)",ad blocking
 https://gitlab.com/sinadarvi/blocking-car-ai,Blocking car AI project with uninformed and informed searching,ad blocking
 https://gitlab.com/Kooroshh/SpotifyADBlocker,Simple Proxy Server for Blocking Spotify ads,ad blocking
+https://gitlab.com/a-myers/blocking-sleep,NodeJS Library to provide simple sleep functionality. Designed to replicate Python's Time.sleep() function.,ad blocking
+https://gitlab.com/osenv/rack-attack,Rack middleware for blocking & throttling,ad blocking
+https://gitlab.com/osenv/amp,A non-blocking concurrency framework for PHP applications.,ad blocking
+https://gitlab.com/Nexrem/90dns,NX DNS setup with BIND9 and nginx for blocking all Nintendo servers.,ad blocking
+https://gitlab.com/mattsgarrison/NoMoreContent,Cobbled together iOS9 app to enable content blocking. Nothing new or original to see here.,ad blocking
+https://gitlab.com/smarttinker-2016/90dns,NX DNS setup with BIND9 and nginx for blocking all Nintendo servers.,ad blocking
+https://gitlab.com/mispgl/myofb,"Minimal blocking system for ads, trackers, evil sites, etc",ad blocking
+https://gitlab.com/shyran/curl-easy,"cURL wrapper for PHP. Supports parallel and non-blocking requests. For high speed crawling, see stil/curl-robot",ad blocking
+https://gitlab.com/onlineonline/tadarise-60-mg,"<a href=""https://www.genericday.com/tadarise-60-mg.html"">TADARISE 60 MG</a> is a holy-replica of Tadalafil-based Cialis medicines which are used for blocking PDE5 enzymes and regulating the blood flow in the penises stuck by erectile dysfunction (ED)",ad blocking
 https://gitlab.com/LukaJelicicLux/euroscipy2018_python_optimization,"EuroScipy 2018 Tutorial ""A tour of python profiling and optimization""",ad profiling
 https://gitlab.com/vinu76jsr/django_profiler,Profiling app for django,ad profiling
 https://gitlab.com/kyxap/jvm-tools,"Small set of tools for JVM troublshooting, monitoring and profiling.",ad profiling
@@ -131,7 +254,17 @@ https://gitlab.com/ParkerM/hpc-mpip,Docker image with OpenMPI 1.6.5 and mpiP 3.4
 https://gitlab.com/jeremie.elokence/small-profiler,"Small profiling utility for already running process.
 ",ad profiling
 https://gitlab.com/n0mn0m/pyspark-profiling,Examples of using PySpark profiling,ad profiling
-https://gitlab.com/meishijiemeimei/admob-for-flash,admob ane for flash air iOS app and actionscript android app.include banner and Interstitial native Advertising.this Admob ANE suport admob 1 and admob 2,native advertising
+https://gitlab.com/bspeice/alloc-counter,An allocation profiling tool.,ad profiling
+https://gitlab.com/romajke/Profiler-Net,Minimalistic profiling library for .NET,ad profiling
+https://gitlab.com/sio4/code/alloc-counter,An allocation profiling tool.,ad profiling
+https://gitlab.com/rpienaar/percept2,Concurrent profiling tool for Erlang,ad profiling
+https://gitlab.com/rpienaar/erlang_profiling,erlang_profiling,ad profiling
+https://gitlab.com/rpienaar/eep,Erlang Easy Profiling (eep) application provides a way to analyze application performance and call hierarchy,ad profiling
+https://gitlab.com/Cyprias/lootprofile3,"Loot profiling script for SkunkWorks, a Asheron's Call scripting engine.",ad profiling
+https://gitlab.com/Neurochrom/iprof,A pretty simple and performant C++ profiling library,ad profiling
+https://gitlab.com/anujeet98/platsti-waste-profiling-using-tensorflow-object-detection-api,"the used model is trained over images of common food wrappers and plastic bottles ,this model is integrated with android application which will provide image captured to be tested on the object detection model",ad profiling
+https://gitlab.com/dj5/NNPlasticProf,Profiling,ad profiling
+https://gitlab.com/mkldon/test-prof,Ruby Tests Profiling Toolbox,ad profiling
 https://gitlab.com/ivanliu1989/AVAZU-CTR-Prediction,"In online advertising, click-through rate (CTR) is a very important metric for evaluating ad performance. As a result, click prediction systems are essential and widely used for sponsored search and real-time bidding.",sponsored advertising
 https://gitlab.com/udtyw156/bloxion,influencer marketing platform,influencer marketing
 https://gitlab.com/williamtrungle/trangxtran,"A personal photographer, blogger, and digital marketing influencer's portfolio",influencer marketing
@@ -150,7 +283,40 @@ https://gitlab.com/nastis/pi_hub,"All code needed to create the raspberry pi hub
 https://gitlab.com/khalifamhmdkhalifa/LocationBasedAdvertisingApplication,Location Based Advertising Application it uses beacon to identify the location and asp web service to access the stores' data...,web beacon
 https://gitlab.com/sdjava/beaconDemo,web beacon,web beacon
 https://gitlab.com/overup/boomerang,End user oriented web performance testing and beaconing,web beacon
-https://gitlab.com/benmosheron/bens-offer-server,"A Scala project using http4s. Runs a simple http server which allows merchants to post limited time, fixed price offers, which can be queried and cancelled.",limited time offer
+https://gitlab.com/Oscar65/resttime-qt,Qt application countdown timer. It has 2 ways to notice has ended: flash on taskbar and restore window state.,countdown timer
+https://gitlab.com/usvc/services/countdown-timer,A countdown timer service.,countdown timer
+https://gitlab.com/ueco/Hourglass,Android-Hourglass is a Countdown timer that provides the feature of pausing the timer.,countdown timer
+https://gitlab.com/mygithubrepo/SimpleClock,Countdown Timer & Stopwatch,countdown timer
+https://gitlab.com/casanje/countdown-timer,Simple and multi countdown timer,countdown timer
+https://gitlab.com/svenssonjoel/Emacs-Countdown,Display a countdown timer in an emacs buffer,countdown timer
+https://gitlab.com/TylerGlisson/Pomodoro,Pomodoro Countdown Timer for FreeCodeCamp,countdown timer
+https://gitlab.com/ArslanAmeer/circlebars,Add circular progress bars and countdown timers easily with circlebars  Created by @itaditya. Demo at >,countdown timer
+https://gitlab.com/straighter/timmerman,An accurate countdown timer that works with event emitters.,countdown timer
+https://gitlab.com/coldfrontlabs/vue-bootstrap-countdown-timer,Accessible countdown timer for VueJS and VueBootstrap,countdown timer
+https://gitlab.com/raphaelkoola/fixturetravelassignment,Using Twig template along with Symfony on Homestead to display an Image along with a countdown timer to an event.,countdown timer
+https://gitlab.com/namark/melno,Simple little monochrome countdown timer.,countdown timer
+https://gitlab.com/2e0byo/cli-countdown-timer,A very basic 'sleep' like timer which displays remaining time,countdown timer
+https://gitlab.com/atifzaidi/jQuery-Simple-Timer,A countdown timer plugin for jQuery,countdown timer
+https://gitlab.com/OmerTal/countdown,A timer countdown to a given date and time.,countdown timer
+https://gitlab.com/yo/hackathon-countdown,Countdown timer for Hackathon | https://hack.yoginth.com,countdown timer
+https://gitlab.com/davidmezofi/countdown-timer,Simple countdown timer,countdown timer
+https://gitlab.com/hashdivision/wgct,Worldman Games Countdown Timer backend.  More information on https://wmgames.ee,countdown timer
+https://gitlab.com/wesolowsky/radial-countdown,SVG round countdown timer. Built to be used with Movable Ink and was sent over to them to actually add to the platform,countdown timer
+https://gitlab.com/abinthomasonline/shaastra-shinpi,A quick countdown timer hack for shaastra shinpi. Forked from https://codepen.io/wikyware-net/pen/rqJzVK,countdown timer
+https://gitlab.com/dgetsman/half-life-timer,"Based on a 5.5x plasma half-life (for water soluble medications) concentration algorithm, this timer will show you approximately how much (percentage or in mg, etc) of it remains in the body as the original pre-metabolized med.  Countdown in seconds.",countdown timer
+https://gitlab.com/kascique/js-countdown-timer,JavaScript countdown timer with local storage. This countdown timer remember the ,countdown timer
+https://gitlab.com/mikeludemann/countdown_timer,Countdown and Timer,countdown timer
+https://gitlab.com/denvercoder/CountdownTimer,A simple egg timer app.,countdown timer
+https://gitlab.com/austinhansen/10000-hours,10000 hours countdown timer,countdown timer
+https://gitlab.com/Hieuvoo/countdown.ml,"⏱ A countdown timer with a fun flipping animation ⏳   h̵t̵t̵p̵:̵/̵/̵c̵o̵u̵n̵t̵d̵o̵w̵n̵.̵m̵l̵/̵ (I lost the domain because of google being a monopoly - not delivering emails because my drive storage was full - and not telling me! in any way! (maybe they sent an email, hah))",countdown timer
+https://gitlab.com/DascoForTheWorld/CountDownTimer,A simple Python GUI count-down timer.,countdown timer
+https://gitlab.com/abhchand/countdown-timer,A simple countdown timer to important events!,countdown timer
+https://gitlab.com/Nihal369/Dark-Timer,A countdown timer with dark theme created by me,countdown timer
+https://gitlab.com/daiokaio/foxhound-countdown,countdown timer for foxhound project. ,countdown timer
+https://gitlab.com/Faroop/countdown-timer,code for a timer clock,countdown timer
+https://gitlab.com/swolford/LampTimer,"An Arduino sketch to display a countdown timer for 8 seconds before turning on a lamp and counting down from 20 seconds before turning off, with support for illuminated pushbuttons and cancellation at any time.",countdown timer
+https://gitlab.com/Asingers/MZTimerLabel,倒计时A handy class for iOS to use UILabel as a countdown timer or stopwatch just like in Apple Clock App.,countdown timer
+https://gitlab.com/Soini/CountdownTimer,A simple timer that spits out a text string in a .txt file in the same directory.,countdown timer
 https://gitlab.com/VictorOmondi1997/HomeScreen-Website,A timer landing page website. A homepage or landing page with the time that we can interact with and save our name/focus to local storage.,website timer
 https://gitlab.com/sokolovdp/34_timemachine,Timer for Websites That Steal Your Time,website timer
 https://gitlab.com/PavelShturm85/34_timemachine,Timer for Websites That Steal Your Time,website timer
@@ -189,6 +355,77 @@ https://gitlab.com/MaxValue/Ad-Filters,Various custom ad-blocking filters with f
 https://gitlab.com/genericnew101/tadarise-60-mg,"<a href=""https://www.genericday.com/tadarise-60-mg.html"">TADARISE 60 MG</a> is a holy-replica of Tadalafil-based Cialis medicines which are used for blocking PDE5 enzymes and regulating the blood flow in the penises stuck by erectile dysfunction (ED)",ip blocking
 https://gitlab.com/sinadarvi/blocking-car-ai,Blocking car AI project with uninformed and informed searching,ip blocking
 https://gitlab.com/Kooroshh/SpotifyADBlocker,Simple Proxy Server for Blocking Spotify ads,ip blocking
+https://gitlab.com/a-myers/blocking-sleep,NodeJS Library to provide simple sleep functionality. Designed to replicate Python's Time.sleep() function.,ip blocking
+https://gitlab.com/osenv/rack-attack,Rack middleware for blocking & throttling,ip blocking
+https://gitlab.com/osenv/amp,A non-blocking concurrency framework for PHP applications.,ip blocking
+https://gitlab.com/Nexrem/90dns,NX DNS setup with BIND9 and nginx for blocking all Nintendo servers.,ip blocking
+https://gitlab.com/mattsgarrison/NoMoreContent,Cobbled together iOS9 app to enable content blocking. Nothing new or original to see here.,ip blocking
+https://gitlab.com/smarttinker-2016/90dns,NX DNS setup with BIND9 and nginx for blocking all Nintendo servers.,ip blocking
+https://gitlab.com/mispgl/myofb,"Minimal blocking system for ads, trackers, evil sites, etc",ip blocking
+https://gitlab.com/shyran/curl-easy,"cURL wrapper for PHP. Supports parallel and non-blocking requests. For high speed crawling, see stil/curl-robot",ip blocking
+https://gitlab.com/onlineonline/tadarise-60-mg,"<a href=""https://www.genericday.com/tadarise-60-mg.html"">TADARISE 60 MG</a> is a holy-replica of Tadalafil-based Cialis medicines which are used for blocking PDE5 enzymes and regulating the blood flow in the penises stuck by erectile dysfunction (ED)",ip blocking
+https://gitlab.com/openstage-packages/community/brave-browser,"Brave is open source browser and built by a team of privacy focused, performance oriented pioneers of the web.",privacy browser
+https://gitlab.com/sounakkar/88webBrowser,Android lightweight privacy featured browser ,privacy browser
+https://gitlab.com/wtfgraciano/nuke,ðŸ’¥ erase everything related to privacy concerns in a machine. Like browser cookies and your ssh key.,privacy browser
+https://gitlab.com/KayG/librewolf,Community-maintained fork of Librefox: a privacy and security-focused browser,privacy browser
+https://gitlab.com/terrabitz/hardened-firefox-user.js,"This a file for Firefox that hardens the about:config settings for privacy and security. The main purpose of this is to prevent browser fingerprinting, telemetry and other privacy invasive things.",privacy browser
+https://gitlab.com/shreyasminocha/librewolf,Community-maintained fork of Librefox: a privacy and security-focused browser https://LibreWolf.gitlab.io,privacy browser
+https://gitlab.com/vpronin/mailcare,MailCare is an open source disposable email address services. Accessible via web browser or API to protect your privacy right now. https://mailcare.io,privacy browser
+https://gitlab.com/TechTeam17/OnionBrowser,"An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network",privacy browser
+https://gitlab.com/Tenmag/OtterBrowserPrivacyConfig,Otter-browser privacy config,privacy browser
+https://gitlab.com/luclu7/badWolf,Web Browser which aims at security(and so privacy) over usability.,privacy browser
+https://gitlab.com/argosback/mailcare,MailCare is an open source disposable email address services. Accessible via web browser or API to protect your privacy right now. https://mailcare.io,privacy browser
+https://gitlab.com/nitrohorse/privacytools-io-opensearch,OpenSearch XML that adds https://search.privacytools.io as a search engine to the Firefox browser. https://addons.mozilla.org/en-US/firefox/addon/search-privacytools-io,privacy browser
+https://gitlab.com/nitrohorse/privacytools-io-search,Web extension that adds https://search.privacytools.io as a search engine to the Firefox browser. An alternate approach compared to using OpenSearch: https://gitlab.com/nitrohorse/privacytools-io-opensearch,privacy browser
+https://gitlab.com/skilstak/config/chrome,World's most used and watched web browser. Take back privacy.,privacy browser
+https://gitlab.com/madaidan/hardened-firefox-user.js,"This a file for Firefox that hardens the about:config settings for privacy and security. The main purpose of this is to prevent browser fingerprinting, telemetry and other privacy invasive things.",privacy browser
+https://gitlab.com/privyedge/dapper-hardened-browser,Dapper Hardened Browser is a hardened web browser for better security and privacy,privacy browser
+https://gitlab.com/sensetvofficial/privacybadger,Privacy Badger is a browser extension that automatically learns to block invisible trackers.,privacy browser
+https://gitlab.com/digitalgangster/dapper-hardened-browser,Dapper Hardened Browser is a hardened web browser for better security and privacy,privacy browser
+https://gitlab.com/crazymax/mailcare,MailCare is an open source disposable email address services. Accessible via web browser or API to protect your privacy right now. https://mailcare.io,privacy browser
+https://gitlab.com/sh1nu11b1/Privacy,List of POC to show how your browser say no to privacy,privacy browser
+https://gitlab.com/MathewTyler/evercookie,"Produces persistent, respawning ""super"" cookies in a browser, abusing over a dozen techniques. Its goal is to identify users after they've removed standard cookies and other privacy data such as Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.",privacy browser
+https://gitlab.com/SchwabischesBauernbrot/TrackMeNot,"An artware browser add-on to protect privacy in web-search. By issuing randomized queries to common search-engines, TrackMeNot obfuscates your search profile(s) and registers your discontent with surreptitious tracking. http://cs.nyu.edu/trackmenot/",privacy browser
+https://gitlab.com/belos-old/klar,The privacy browser,privacy browser
+https://gitlab.com/theinspire.eu/inspire-leopard,"Inspire Leopard is a modern, fast, secure, intuitive and lighweight web browser for the 21st Century. Leopard brings you more privacy, safety and speed.",privacy browser
+https://gitlab.com/mailcare/mailcare,MailCare is an open source disposable email address services. Accessible via web browser or API to protect your privacy right now. https://mailcare.io,privacy browser
+https://gitlab.com/Rockyspade/iOS-OnionBrowser,"An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network",privacy browser
+https://gitlab.com/johncant/inox-patchset,Inox patchset tries to provide a minimal Chromium based browser with focus on privacy by disabling data transmission to Google.,privacy browser
+https://gitlab.com/lanodan/badWolf,Web Browser which aims at security(and so privacy) over usability.,privacy browser
+https://gitlab.com/Booteille/nitterify,"A Web Extension to redirect Twitter links to Nitter, a privacy-friendly, alternative interface.",privacy extension
+https://gitlab.com/SchwabischesBauernbrot/Privacy-eye,"Free, open source Chrome extension for internet transparency & data privacy",privacy extension
+https://gitlab.com/nitrohorse/privacytools-io-search,Web extension that adds https://search.privacytools.io as a search engine to the Firefox browser. An alternate approach compared to using OpenSearch: https://gitlab.com/nitrohorse/privacytools-io-opensearch,privacy extension
+https://gitlab.com/sensetvofficial/privacybadger,Privacy Badger is a browser extension that automatically learns to block invisible trackers.,privacy extension
+https://gitlab.com/soluno/contao-privacy,"This extension provides some privacy features to Contao 3.5.x and 4.4.x (4.5.x). If you have some ideas which we should add or change in the mentioned Contao versions, feel free to create an issue.",privacy extension
+https://gitlab.com/boOgiEbasler/t3-tx-socialshareprivacy,Typo3 Extension for Social Share Privacy,privacy extension
+https://gitlab.com/jenx/master-thesis,A real-time extension of a formal privacy policy framework,privacy extension
+https://gitlab.com/Acidburn0zzz/searchlinkfix,"Firefox extension that prevents Google, Yahoo and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.",privacy extension
+https://gitlab.com/thecoffeecoder/mvaf,Mullvad VPN Alternative Frontend,vpn alternative
+https://gitlab.com/absjabed/EasyVPN-Free,Open source Android application on base of OpenVPN and VpnGate projects,free vpn
+https://gitlab.com/ljjbluesky/awesome-vpn,"A curated list of awesome free VPNs and proxies.免费的代理,科学上网,翻墙，梯子大集合",free vpn
+https://gitlab.com/Eliepse/EddieAndroid,Free and open source OpenVPN GUI. Only official application by AirVPN.,free vpn
+https://gitlab.com/wyatthuang/wpn,Free VPN,free vpn
+https://gitlab.com/galvesband/ssii-psi3-freevpn,PSI 3 de la asignatura Seguridad en Sistemas Informáticos e Internet,free vpn
+https://gitlab.com/wyatthuang/free-vpn,**(Loss Efficacy Currently Because of CFW Banning)** catch and set shadowsocks and brook free account,free vpn
+https://gitlab.com/onuragtas/EasyVPN-Free,Open source Android application on base of OpenVPN and VpnGate projects,free vpn
+https://gitlab.com/chipitsine/SoftEtherVPN,"A Free Cross-platform Multi-protocol VPN Software, developed by SoftEther VPN Project at University of Tsukuba, Japan.",free vpn
+https://gitlab.com/bhangad14/freevpnservices2019,"VPNѕ аrе оnе of thе best options fоr рrоtесtіng уоur privacy, еnсrурtіng уоur dаtа, аnd changing your gеоlосаtіоn. Premium ѕеrvісеѕ are much bеttеr at рrоvіdіng secure, рrіvаtе, geoblock-free Internet access. But, unfоrtunаtеlу fоr uѕеrѕ.",free vpn
+https://gitlab.com/AirVPN/EddieAndroid,Free and open source OpenVPN GUI. Only official application by AirVPN.,free vpn
+https://gitlab.com/graudeejs/openvpn-update-resolv-conf-freebsd,Script that updates DNS settings are pushed by the OpenVPN server,free vpn
+https://gitlab.com/Plex-Booster/PlexVpn-Lightning_Hidden_Tool,"Plex Booster – A high speed, ultra secure, and easy to use VPN
+Register now for a free trial.
+With PlexVPN, you can surf the web quickly, securely & anonymously.
+
+Features:
+One of the fastest, most reliable VPN services;
+One tap connection, support m",free vpn
+https://gitlab.com/zsdev/iamw,"基于OpenWrt开发用于FreeWifi、数据采集、VPN通信。
+v2.0 稳定版",free vpn
+https://gitlab.com/benjdag/SoftEtherVPN,"A Free Cross-platform Multi-protocol VPN Software, developed by SoftEther VPN Project at University of Tsukuba, Japan.
+
+Forked from github-SoftEtherVPN/SoftEtherVPN",free vpn
+https://gitlab.com/shinvdu/govpn,Simple secure free software VPN daemon (mirror of http://git.cypherpunks.ru/cgit.cgi/govpn.git/),free vpn
+https://gitlab.com/mba811/SoftEtherVPN,"A Free Cross-platform Multi-protocol VPN Software, developed by SoftEther VPN Project at University of Tsukuba, Japan.",free vpn
 https://gitlab.com/howar31/prank_credit_card_scan,"Fake credit card scan prank
 https://howar31.gitlab.io/prank_credit_card_scan",fake credit
 https://gitlab.com/gavz/35c3ctf_nokia,"Soruce code, infrastructure and exploits for the 35C3 CTF challenges newphonewhodis and identitytheft",Identity theft
@@ -221,6 +458,20 @@ https://gitlab.com/fvdm/FoscamTouch,Touch frontend for Foscam/Tenvis network cam
 https://gitlab.com/akashraj98/fuel-hook,Fuel monitoring system to minimise fuel related scam ,scam
 https://gitlab.com/tusharmalik/fuel-hook,Fuel monitoring system to minimise fuel related scam ,scam
 https://gitlab.com/KaiTiggy/GSCampusMap-iOS,WIP – Georgia Southern Campus Map for iOS,scam
+https://gitlab.com/KaiTiggy/GSCampusMap-Android,A Native Android App for Georgia Southern University's Campus Map,scam
+https://gitlab.com/sebastienmasson/cctv-watch,"Shell script
+
+* Searches for FOSCAM videos streams; then, displays them all into a single mosaic;
+* Uses cVLC;
+* Works fine with FI9821W and FI9804W;
+* Customizable IP ranges, user name and password.
+
+Improvements are definitively welcome.",scam
+https://gitlab.com/csmoney/antiscam,There is AntiScam chrome extension which prevent the entrance to fishing sites and the theft your API key.,scam
+https://gitlab.com/cywarelabs/keep-yourself-updated-with-latest-hacking-news,Cyware is the best platform to know all the updates about recent hacking scams happening in the world. Read and update your knowledge.,scam
+https://gitlab.com/frnmst-mirrors/get-fattura-pa,The purpose of this script is exclusively to read invoices received from the *Sistema di Interscambio*.,scam
+https://gitlab.com/CRUIZV/proyecto,proyecto buscaminas,scam
+https://gitlab.com/sfi-developers/scam,Service Asset and Configuration Management module,scam
 https://gitlab.com/akashraj98/fuel-hook,Fuel monitoring system to minimise fuel related scam ,scam monitoring
 https://gitlab.com/tusharmalik/fuel-hook,Fuel monitoring system to minimise fuel related scam ,scam monitoring
 https://gitlab.com/deletos/devopscamp-challenge-monitoring,Creating monitoring setup in order to trigger health/sanitychecks to a website  ,scam monitoring
@@ -253,6 +504,10 @@ https://gitlab.com/Druzyna-A/KnowledgeBase,3rd RSI module - knowledge base. Inte
 https://gitlab.com/vfulco/terms-of-service-CI-boilerplate,Terms of Service or Privacy Policy Boilerplate using Latex & Markdown with  Gitlab Continuous Integration,terms of service
 https://gitlab.com/Zipier/legal,"Publicly accessible master copy of Zipier's Terms of Service (ToS), Privacy policy, and Copyright policy.",terms of service
 https://gitlab.com/dimitrieh/terms-of-service-CI-boilerplate,Terms of Service or Privacy Policy Boilerplate using Latex & Markdown with  Gitlab Continuous Integration,terms of service
+https://gitlab.com/vigou3/ime-2017-insurance-of-things,"A foray into the Insurance of Things, Or pricing individual objects without prior data - IME 2017",individual pricing
+https://gitlab.com/MStawiarz/Software_Tools_Assignment_1,"Cash register program. Upon running the user is asked for starting cash register balance. 
+The user enters the product name, product price and cash tendered by customers.
+The program then prints the amount of change required and the balance",product price change
 https://gitlab.com/BITS-Pilani-Hyderabad-Campus/Bits-Internet-Accessibility-Supervisor,Monitors Internet activity in the campus with automated login for Windows.,Internet accessibility
 https://gitlab.com/563712793/axe-core,Accessibility engine for automated Web UI testing,web accessibility
 https://gitlab.com/radhefa2/wcag,Web Content Accessibility Guidelines,web accessibility
@@ -266,4 +521,3 @@ https://gitlab.com/101-side/accessibility,Web Accessibility,web accessibility
 https://gitlab.com/pikselkraft/npm-scripts-boilerplate-XL,"This boilerplate is made for the front-end developer who wants to develop 100% custom template. It uses the last web standards and focuses on quality, accessibility and workflow optimisation.",web accessibility
 https://gitlab.com/18runt88/wcag-em-report-tool,Interactive Guide to Assist Managing Web Accessibility Evaluations,web accessibility
 https://gitlab.com/johnantoni/axe-core,Accessibility engine for automated Web UI testing,web accessibility
-https://gitlab.com/vigou3/ime-2017-insurance-of-things,"A foray into the Insurance of Things, Or pricing individual objects without prior data - IME 2017",individual pricing
