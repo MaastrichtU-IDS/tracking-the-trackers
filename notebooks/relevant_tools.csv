@@ -1,0 +1,711 @@
+,url,description,topic,group,method,source,source_type,DS
+0,https://gitlab.com/zeddinarief/jasatirtanms,website monitoring using openlayers map to show customer location,Behavioural tracking,Advertising,Crawler search,Gitlab,Software registry,YES
+1,https://patents.google.com/patent/US8725794B2/en,"An enhanced tracking system comprises an enhanced tracking server for storing and remotely executing one or more third party tags that have been removed from a client website. As a result, a visitor browser only needs to process the webpage itself such that the …",Behavioural tracking,Advertising,Crawler search,Google scholar,Research,YES
+2,https://www.tandfonline.com/doi/abs/10.1080/10447318.2012.728493,"Cognitive decline is inherent with age. Despite known cognitive limitations, older adults are generally not taken into account during website design. Understanding age-related differences in website navigation is instructive for website design, especially considering the …",Behavioural tracking,Advertising,Crawler search,Google scholar,Research,YES
+3,https://patents.google.com/patent/US8683056B2/en,"A system and method for analyzing traffic to a website is provided that is based on log files and that uses both server-side and client-side information channeled through one source to create a more complete picture of activity to a website. In one preferred embodiment, a …",Behavioural tracking,Advertising,Crawler search,Google scholar,Research,YES
+4,https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=9916611&KC=B2&date=20180313&locale=en_EP,"A system and method is disclosed for collecting website visitor activity for profiling visitor interests and dynamically modifying the content of the website to better match the visitor's profile. The visitor activity data is collected directly from the visitor's client browser or from the website's own web log information. The collected data consists of the page identifier, page links, and the previous page identifier. Similarly, the modified page content can be sent directly to the client browser or can be sent back to the website server for integration with the other page content. The collected data is stored in a database. Based on the amount of information collected on the visitor and the various items that are presented on the website, the visitors and items are profiled so that a visitor's response to other items can be predicted and recommended to the visitor. The recommendations can be requested and displayed directly by and to the client browser or the website server can make the request and subsequently display the matching content. The system has application in personalization, behavioral targeting, Internet retailing, social networking, affiliate marketing, and online advertising, to name but a few applications.",Behavioural tracking,Advertising,Crawler search,EU Patents Database,Software registry,YES
+5,https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=9516035&KC=B1&date=20161206&locale=en_EP,"Methods and systems for behavioral profiling, and in particular, utilizing crowd-managed data architectures to store and manage that profile, are described. In some embodiments, a method includes observing behavioral characteristics of user interactions during a current session with the user through one of a plurality of channels. Variations between the behavioral characteristics of the user interactions observed during the current session and a behavioral profile previously developed based on prior usage patterns of the user through the plurality of channels are identified, in real-time or near real-time.",Behavioural tracking,Advertising,Crawler search,EU Patents Database,Software registry,YES
+6,https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=7987182&KC=B2&date=20110726&locale=en_EP,"A embodiment is disclosed for learning user interests based on user actions and then applying the learned knowledge to rank, recommend, and/or filter items, such as e-mail spam, based on the level of interest to a user. The embodiment may be used for automated personalized information learning, recommendation, and/or filtering systems in applications such as television programming, web-based auctions, targeted advertising, and electronic mail filtering. The embodiment may be structured to generate item descriptions, learn items of interest, learn terms that effectively describe the items, cluster similar items in a compact data structure, and then use the structure to rank new offerings.",Behavioural tracking,Advertising,Crawler search,EU Patents Database,Software registry,YES
+7,https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=7634785&KC=B2&date=20091215&locale=en_EP,"DVR-based targeted advertising is described. In an embodiment, a targeted advertisement system includes a DVR, an advertisement data store, and an advertisement manager. The DVR records media content, maintains the recorded media content for on-demand viewing, and provides the recorded media content for viewing when requested. The advertisement manager designates advertisement region(s) in the recorded media content as the media content is being recorded, where an advertisement region includes a first boundary and a second boundary to designate the advertisement region in the media content. The advertisement manager monitors a first data stream of the recorded media content when it is rendered for viewing to detect that a playback position of the first data stream has crossed an advertisement region boundary, and to initiate that an advertisement obtained from the advertisement data store be provided as a second data stream to render the advertisement for viewing.",Behavioural tracking,Advertising,Crawler search,EU Patents Database,Software registry,YES
+8,https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=6950804&KC=B2&date=20050927&locale=en_EP,"A method of delivering content from a content delivery system to a user's terminal over a communication link that provides users with flexibility in determining how to pay for content, one option being to receive targeted advertising with the content. Other options presented to the user involve various methods of paying for limited or unlimited access to the content. Therefore, the status in terms of whether access is free for each available content item relative to each user is tracked using a tracking database.",Behavioural tracking,Advertising,Crawler search,EU Patents Database,Software registry,YES
+9,https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=8090358&KC=B2&date=20120103&locale=en_EP,"Methods and computer-readable media are provided for providing targeted advertising to subscriber devices based on the location of the subscriber device and a set of advertiser-defined and subscriber-defined criteria. In one embodiment, the method includes retrieving location information that identifies the location of the subscriber device. Advertising is matched and transmitted to the subscriber device according to the location of the device. Matching advertising to the subscriber device is based on a set of advertiser-defined matching criteria that matches both the location of the subscriber device and a set of subscriber characteristics stored in a subscriber profile. A subscriber may define a set of parameters within the subscriber profile that further filters the set of matched advertisements.",Behavioural tracking,Advertising,Crawler search,EU Patents Database,Software registry,YES
+10,https://patents.google.com/patent/US7680892B2/en,"A system for monitoring email and website behavior of an email recipient is provided. According to one exemplary embodiment, the system includes a mail enhancement server and a logging server. The mail enhancement server is configured to intercept all outgoing …",Behavioural tracking,Advertising,Crawler search,Google scholar,Research,YES
+11,https://doi.org/10.1145/2851613.2851680,Accessibility evaluation of rich internet applications interface components for mobile screen readers.,Failure of Web accessibility,Compliance,Crawler search,DBLP,Research,YES
+12,https://play.google.com/store/apps/details?id=com.trustlook.antivirus&referrer=utm_source%3D42matters.com%26utm_medium%3Dapi,"Antivirus Security use accessibility services to improve boost feature in some devices.
+
+Most Efficient Antivirus & Security app in Google Play Store. 
+Easy Scan & Deep Clean Android devices.
+UPDATE: Scan for the latest Adups security breach (unauthorized data loss to China). 
+#1 Antivirus Engine by AVTEST
+https://www.av-test.org/en/antivirus/mobile-devices/manufacturer/trustlook/
+
+Trustlook Antivirus & Mobile Security is an FULL-FEATURED antivirus & security app which can scan viruses, malware, spyware, trojans, phishing attempts, unsafe web browsing and any threats on your devices. Based on next-generation behavior detection technology, Trustlook delivers one of the fastest virus scan in mobile security industry. 
+
+Why you need Antivirus App?
+
+With cyberattacks and malicious apps targeting Android smartphones increasing in frequency, everyone may be at risk of financial loss or information disclosure. Trustlook Antivirus Mobile Security can help to warn discovered potential risks, clear existed threats, provide a comprehensive protection to enhance your phone security safer.
+
+What you can do with Trustlook Antivirus Mobile Security?
+
+✓ Antivirus Cleaner & Security Protection - Provide real-time malware/virus protection to ensure phone safety, antivirus security
+✓ Scan - 1-click to Scan Virus, Junk, Web, Apps, Media, Settings and resolve all
+✓ Boost Cleaner - Clean cache/junk/memory, Optimize battery & storage to Boost phone speed
+✓ App Manager - Manage/Backup/Uninstall existed apps on your device
+✓ Backup & Restore - Batch Backup apps, contacts, calls, SMS to enhance data security
+✓ Find Device & Antitheft - Find/Lock/Wipe your lost or stolen mobile devices
+✓ Wi-Fi Security - Monitor surrounding Wi-Fi and point dangerous ones out
+✓ ID Check - Scan & Check to see if your email address has been hacked
+✓ Web Protection - Scan website URLs to prevent phishing and inappropriate websites to kids
+✓ Payment Security - Detect payment environment before purchasing online
+
+Highlights of Trustlook Antivirus Mobile Security
+
+★ All-in-One: Get everything on your device. All featured with Virus Scan, Virus Cleaner, Speed booster, Phone Booster, Phone Cleaner, App Manager, Backup & Restore, Find Device, Wi-Fi Security, ID Check and so on
+★ Advanced Real-time Protection: Our state-of-the-art antivirus protection technology does real-time detection and keeps malicious apps or harmful viruses away from your devices
+★ Trusted Source: We are the built-in virus scan engine of Huawei phones and are headquartered in the heart of Silicon Valley
+★ Keep Updating: Scan vulnerabilities like BadKernel, Stage Fright, Heartbleed, Adups…
+
+Install Trustlook Antivirus Mobile Security app to start receiving the best malware/virus protection available!",Failure of Web accessibility,Compliance,Crawler search,Google play,Software registry,YES
+13,https://dl.acm.org/citation.cfm?id=1243465,"This paper raises the need for quantitative accessibility measurement and proposes three different application scenarios where quantitative accessibility metrics are useful: Quality Assurance within Web Engineering, Information Retrieval and accessibility monitoring. We …",Failure of Web accessibility,Compliance,Crawler search,Google scholar,Research,YES
+14,https://link.springer.com/chapter/10.1007/11788713_24,Testing accessibility of a web site is still an art. Lack of appropriate definitions of accessibility and of standard testing methods are some of the reasons why Web accessibility is so difficult to achieve. The paper describes a heuristic walkthrough method based on barriers; it then …,Failure of Web accessibility,Compliance,Crawler search,Google scholar,Research,YES
+15,https://www.emeraldinsight.com/doi/abs/10.1108/07378830110384584,"The Americans with Disabilities Act (ADA) mandates that library programs and services must be accessible to people with disabilities. In an era in which much information resides in digitalized form on the WWW, the ADA's mandate must be interpreted as applying not only to …",Failure of Web accessibility,Compliance,Crawler search,Google scholar,Research,YES
+16,https://dl.acm.org/citation.cfm?id=1028661,"We report here on our progress on a project first described at the ASSETS 2002 conference. At that time, we had developed a prototype system in which a proxy server intermediary was used to adapt Web pages to meet the needs of older adults. Since that report, we field tested …",Failure of Web accessibility,Compliance,Crawler search,Google scholar,Research,YES
+17,https://dl.acm.org/citation.cfm?id=2783370,"… In a nutshell, we formulate the spam detection problem as a network classification task on the
+user-review-product network. In this task, users are to be classified as spammer or benign,
+products as targeted or non-targeted, and reviews as fake or genuine … 
+",Fake reviews,Advertising,Crawler search,Google scholar,Research,YES
+18,https://dl.acm.org/citation.cfm?id=2070716,"… love”→“like” relationship. With respect to the fundamental issues involved in detecting
+fake reviews, an effec- tive system of review spam detection should satisfy the
+following orthogonal require- ments. First, the system should … 
+",Fake reviews,Advertising,Crawler search,Google scholar,Research,YES
+19,https://doi.org/10.1016/j.dss.2016.04.003,Extracting and reasoning about implicit behavioral evidences for detecting fraudulent online transactions in e-Commerce.,General scam & Pishing,Scam (Online Fraud),Crawler search,DBLP,Research,YES
+20,https://doi.org/10.1016/j.elerap.2013.01.001,Pricing fraud detection in online shopping malls using a finite mixture model.,General scam & Pishing,Scam (Online Fraud),Crawler search,DBLP,Research,YES
+21,https://play.google.com/store/apps/details?id=com.vpn.bestSharkVPN&referrer=utm_source%3D42matters.com%26utm_medium%3Dapi,"When it comes to the Internet's safety and security, Best Shark VPN is an essential tool. It encrypts your connection so that third parties can’t track your online activity, making it more secure than a typical proxy.
+
+We have built a global VPN network included America, Europe, and Asia, and expand to more country soon. Most servers are free to use, you can click the flag and change server as many times as you want.
+
+Why choose Best Shark VPN?
+✓ A large number of servers, high-speed bandwidth
+✓ Choose apps which using VPN (Android 5.0+ required)
+✓ Works with Wi-Fi, LTE/4G, 3G and all mobile data carriers
+✓ Strict no-logging policy
+✓ Smart choose server
+✓ Well-designed UI
+✓ No usage and time limit
+✓ No registration or configuration required
+✓ No additional permissions required
+
+Download Best Shark VPN, the world's fastest secure virtual private network, and enjoy it all!
+
+If Best Shark VPN connect failed, don't worry, you can follow these steps to fix it:
+1) Click the flag icon
+2) Click the refresh button to check servers
+3) Choose the fastest and most stable server to reconnect
+
+Hoping you suggestion and good rating to keep it growing and make it better :-)
+
+
+VPN related introduction
+
+A virtual private network (VPN) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running across the VPN may, therefore, benefit from the functionality, security, and management of the private network.
+
+Individual Internet users may secure their transactions with a VPN, to circumvent geo-restrictions and censorship, or to connect to proxy servers for the purpose of protecting personal identity and location. However, some Internet sites block access to known VPN technology to prevent the circumvention of their geo-restrictions.
+
+VPNs cannot make online connections completely anonymous, but they can usually increase privacy and security. To prevent disclosure of private information, VPNs typically allow only authenticated remote access using tunneling protocols and encryption techniques.
+
+Mobile virtual private networks are used in settings where an endpoint of the VPN is not fixed to a single IP address but instead roams across various networks such as data networks from cellular carriers or between multiple Wi-Fi access points. Mobile VPNs have been widely used in public safety, where they give law enforcement officers access to mission-critical applications, such as computer-assisted dispatch and criminal databases, while they travel between different subnets of a mobile network.",General scam & Pishing,Scam (Online Fraud),Crawler search,Google play,Software registry,YES
+22,https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-6606.2001.tb00101.x,"… To test the hypotheses regarding consumer concerns about online shopping, it was necessary
+first to classify the responses … unsolicited contacts from the online retailer (eg, junk e-mail), and
+undisclosed tracking of shop- ping behavior … The third category, Online Retailer Fraud … 
+",General scam & Pishing,Scam (Online Fraud),Crawler search,Google scholar,Research,YES
+23,https://patents.google.com/patent/US20060059110A1/en,"… a computer, browser and the Internet, millions of world wide consumers can go shopping at any …
+The Internet is radically changing the way buyers' shop for goods and services … The information
+entered online, go to the central server maintained by the Bank/validation authority … 
+",General scam & Pishing,Scam (Online Fraud),Crawler search,Google scholar,Research,YES
+24,https://www.inderscienceonline.com/doi/abs/10.1504/EG.2008.019526,"… knowledge enhancement project to gain new insights into offender investigations in law
+enforcement … articles prior to making the actual purchase on the shopping cart page … Electronic
+Government, an International Journal (2018) (online only): $742.00. Electronic Government, an … 
+",General scam & Pishing,Scam (Online Fraud),Crawler search,Google scholar,Research,YES
+25,https://www.tandfonline.com/doi/abs/10.1080/10864415.2003.11044270,"… In addition, the possibil- ity of fraud increases significantly on the Internet because of the difficulty
+of accounting for the use of services, that … Be- cause of such concerns, customers distrust
+e-commerce security … There are far more cellular phone frauds than e-commerce frauds [32 … 
+",General scam & Pishing,Scam (Online Fraud),Crawler search,Google scholar,Research,YES
+26,https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=8565396&KC=B1&date=20131022&locale=en_EP,A computer-implemented method to detect scam on a communications device is described. An incoming communication is detected at the communications device. A determination is made as to whether a requested response message is detected. The requested response message is analyzed to determine whether the message is suspicious. A response message to the incoming communication is detected. The response message is blocked based on a determination that the requested response message is suspicious.,General scam & Pishing,Scam (Online Fraud),Crawler search,EU Patents Database,Software registry,YES
+27,https://patents.google.com/patent/US8831677B2/en,"All-in-one wireless mobile telecommunication devices, methods and systems providing greater customer-control, instant-response anti-fraud/anti-identity theft protections with instant alarm, messaging and secured true-personal identity verifications for numerous …",General scam & Pishing,Scam (Online Fraud),Crawler search,Google scholar,Research,YES
+28,https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/mistjintl25&section=22,"GEOBLOCKING REQUIREMENTS IN ONLINE DISTRIBUTION OF COPYRIGHT-PROTECTED 
+CONTENT: IMPLICATIONS OF COPYRIGHT ISSUES ON APPLICATION OF EU ANTITRUST 
+LAW … II. GEOBLOCKING IN TERRITORIALLY-BASED LICENSING OF COPYRIGHT FOR ONLINE …",Geoblocking,Geoblocking,Crawler search,Google scholar,Research,YES
+29,https://patents.google.com/patent/US9015255B2/en,"… H04L67/146—Markers provided for unambiguous identification of a particular session, eg session
+identifier, session cookie or URL … H04L67/00—Network-specific arrangements or communication
+protocols supporting networked applications; H04L67/22—Tracking the activity of … 
+",HTTP Cookies,Advertising,Crawler search,Google scholar,Research,YES
+30,https://patents.google.com/patent/US7543740B2/en,"… Authenticating a transaction has several practical uses, including determining a fraudulent
+transaction, network analysis, user profiling, user account verification and tracking, network access
+provider analysis, and advertising. Further, the cookie of the present invention may be … 
+",HTTP Cookies,Advertising,Crawler search,Google scholar,Research,YES
+31,https://patents.google.com/patent/US9106691B1/en,"In an embodiment, a computing system, such as a monitoring computer, receives a request from a user to monitor an account of the user with an online service provider. The request may include personal information and user preferences for one or more protective actions …",Identity Theft,Scam (Online Fraud),Crawler search,Google scholar,Research,YES
+32,https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=8281129&KC=B1&date=20121002&locale=en_EP,"Fraud and identity theft are enabled by two faulty assumptions about the way that the identity of a person is verified in our society. The first is that someone who demonstrates knowledge of certain items of personal or financial information about a particular person is presumed to be that person. The second assumption, which gives rise to the first assumption, is that these items of information can be kept confidential. Because fraudsters and identity thieves often seek to use their victim's personal and financial information, this invention proposes a direct authentication system and method that does not depend on these assumptions. The proposed method enables businesses to determine whether the customer is truly the person who he says he is by adopting a new “two-factor” authentication technique and authenticating customer's identity utilizing customer's trusted authenticator. A customer's trusted authenticator can be found within the financial services community; in particular, a bank or other financial institution with whom the customer has a trusted relationship, such as a bank account.",Identity Theft,Scam (Online Fraud),Crawler search,EU Patents Database,Software registry,YES
+33,https://gitlab.com/mispgl/myofb,"Minimal blocking system for ads, trackers, evil sites, etc",Misleading advertising ,Advertising,Crawler search,Gitlab,Software registry,YES
+34,https://play.google.com/store/apps/details?id=com.lkr.fakelocationpro&referrer=utm_source%3D42matters.com%26utm_medium%3Dapi,"If you like our application, upgrade Fake Location (Mock GPS) PRO - Sponsored version!
+
+You will also get a higher PRO exclusive features:
+- Professional
+-30 record My Favorites
+-30 record Location History
+- No Advertising
+
+=== Sharing ===
+Using false position App, you can disguise your location, tap around the world will be able to Fake Location.
+1. Analog seating arrangement in any country Gps coordinates.
+2. You have to find their own place in disguise, whether street, the city where they can perform the most accurate positioning false.
+3. Transferring false position message to the community LINE, FB, Whatsapp, so you do not easily be tracked.
+4. Can check the location GPS position coordinates.
+5. Compass, direction accurately caught.
+6. The simple user interface, the fastest.
+7. My favorite feature, recording place, allowing you quick access.
+8. Fake location history.
+
+If you have any questions you can send Mail to us! 
+lkr.studio.service@gmail.com",Misleading advertising ,Advertising,Crawler search,Google play,Software registry,YES
+35,https://play.google.com/store/apps/details?id=se.christofferalf.webpagemonitor&referrer=utm_source%3D42matters.com%26utm_medium%3Dapi,"Monitor any web page for updates. From a teaser site of a game or a movie, to a school web page with soon to be published exam results, Web Page Monitor is a single place for everything you want to stay on top of. Featuring among other things an easy automatic scheduler and advanced monitoring options for individual web pages.
+• Add an unlimited amount of web pages to monitor for any kind of changes, from a single letter to much bigger updates.
+• Add a web page to this app directly from the share menu in your browser.
+• Check added pages for updates automatically with the built in scheduler. Of course you can do it manually as well.
+• The built in scheduler allows you to check all added web pages at once, several times an hour or once a day, and alerts you with a notification, should any web page changes be found.
+• Customize the ringtone, vibration, and notification light of the automatic update notification.
+• Easy access to all added web pages with a button to open in a browser.
+• Fine tune how individual web pages should be monitored. Alert at the tiniest change, or ignore updates such as varying advertising to avoid false alarms.
+• Completely free with no advertising!",Misleading advertising ,Advertising,Crawler search,Google play,Software registry,YES
+36,https://www.jmir.org/2011/3/e64,"… 16]. The trend remained, with 80% (16/20) of the top 20 products either advertising
+or linking to illegal online drug sellers using eDTCA 2.0 tools (Table 3). Most included
+graphical advertisements and direct links to illicit sellers … 
+",Misleading advertising ,Advertising,Crawler search,Google scholar,Research,YES
+37,https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/nylr81&section=23,"Every year tens of thousands of nonhuman animals1 are tortured and killed in the United States to test cosmetics, despite the existence of many effective nonanimal testing procedures. Two animal tests used for cosmetic products are the Draize eye and skin …",Misleading advertising ,Advertising,Crawler search,Google scholar,Research,YES
+38,https://dl.acm.org/citation.cfm?id=1529575,"… The specific algorithms will be presented in Section 4. 3.1 Rating Aggregator Overview The rating
+aggregation process contains four steps … 4. ALGORITHM DESCRIPTION … from day k to day k
+−1, and λ2 is the arrival rate per day from day k to day k + 2D − 1. To detect the arrival … 
+",Personal pricing,Price Transparency Issues,Crawler search,Google scholar,Research,YES
+39,https://www.econstor.eu/handle/10419/181294,"… product than Windows users). Since the input approach requires access to the pricing algorithms …
+Most studies choose this procedure to detect price discrimination (Hannak et … automatically
+retrieving the prices with the help of an algorithm, one has to make sure that the … 
+",Personal pricing,Price Transparency Issues,Crawler search,Google scholar,Research,YES
+40,http://arxiv.org/abs/1408.1993v1,"Malicious websites are a major cyber attack vector, and effective detection
+of them is an important cyber defense task. The main defense paradigm in this
+regard is that the defender uses some kind of machine learning algorithms to
+train a detection model, which is then used to classify websites in question.
+Unlike other settings, the following issue is inherent to the problem of
+malicious websites detection: the attacker essentially has access to the same
+data that the defender uses to train its detection models. This 'symmetry' can
+be exploited by the attacker, at least in principle, to evade the defender's
+detection models. In this paper, we present a framework for characterizing the
+evasion and counter-evasion interactions between the attacker and the defender,
+where the attacker attempts to evade the defender's detection models by taking
+advantage of this symmetry. Within this framework, we show that an adaptive
+attacker can make malicious websites evade powerful detection models, but
+proactive training can be an effective counter-evasion defense mechanism. The
+framework is geared toward the popular detection model of decision tree, but
+can be adapted to accommodate other classifiers.",Price discrimination,Price Transparency Issues,Crawler search,Arxiv,Research,YES
+41,http://arxiv.org/abs/1711.06955v1,"Web spam is a big problem for search engine users in World Wide Web. They use
+deceptive techniques to achieve high rankings. Although many researchers have
+presented the different approach for classification and web spam detection
+still it is an open issue in computer science. Analyzing and evaluating these
+websites can be an effective step for discovering and categorizing the features
+of these websites. There are several methods and algorithms for detecting those
+websites, such as decision tree algorithm. In this paper, we present a
+systematic framework based on CHAID algorithm and a modified string matching
+algorithm (KMP) for extract features and analysis of these websites. We
+evaluated our model and other methods with a dataset of Alexa Top 500 Global
+Sites and Bing search engine results in 500 queries.",Price discrimination,Price Transparency Issues,Crawler search,Arxiv,Research,YES
+42,http://arxiv.org/abs/1903.11469,Towards hybrid price discrimination via neighbours properties in network-driven economy.,Price discrimination,Price Transparency Issues,Crawler search,DBLP,Research,YES
+43,https://github.com/rodcoelho/dotfiles,Ethnographic Price Discrimination - spins up and configures virtual machines in different geographic locations to find differences in flight prices,Price discrimination,Price Transparency Issues,Crawler search,Github,Software registry,YES
+44,https://gitlab.com/MathewTyler/evercookie,"Produces persistent, respawning ""super"" cookies in a browser, abusing over a dozen techniques. Its goal is to identify users after they've removed standard cookies and other privacy data such as Flash cookies (LSOs), HTML5 storage, SilverLight storage, and others.",VPN,Geoblocking,Crawler search,Gitlab,Software registry,YES
+45,https://play.google.com/store/apps/details?id=com.codefy.beacons&referrer=utm_source%3D42matters.com%26utm_medium%3Dapi,"View all the Bluetooth beacons around you as you pass by them or stand near them, in a beautiful interface. Bluetooth Low Energy beacons are starting to appear everywhere: shops, cafeterias, malls, stadiums, museums, and many other venues. This app gives you a glimpse of what is actually immediately close to you. Unlike other similar apps, you have all the details that you'll ever need about any type of beacon that is around you, or was recently.
+
+Quickly detect and see details about any beacon around you, using the best beacon Android scanner around. No matter what iBeacon or Eddystone beacon is around you (Estimote, Kontakt, RECO, OnyxBeacon, or any other kind of model), this app will find it instantly.
+
+Easily view all the details that you need about each detected beacon, including:
+- for Physical Web (Eddystone) beacons: view the broadcasted URL or UID, and tap to open it in your browser
+- for iBeacon-compatible devices: major ID, minor ID, and Proximity UUID
+- device name and beacon proximity, updated in real-time
+- average signal strength (RSSI) during the last few seconds
+- Measured Power level; MAC address
+- number of RSSI samples received from the beacon over the last few seconds
+- when the beacon was last seen by your device
+
+Special features: notification alert when a new beacon is found; all beacons are sorted automatically by distance; the beacon scanning is running automatically as long as the app is not manually shutdown from the running apps list.
+
+What's a beacon?
+A beacon is a tiny Bluetooth 4.0 Low Energy device that can be detected by a compatible smartphone device from up to 50 meters away, without any need to pair or connect to it. Detecting beacons is very battery-friendly, unlike GPS. This allows proximity-aware applications to react differently for each beacon it finds, depending on the beacon and the application.
+
+This application uses our custom Android beacon detection library, which we are working on since 2014. 
+Beacon Monitor uses OneBeacon - http://onebeacon.io , our universal beacon platform that can make your app quickly interact with any type of Bluetooth Low Energy beacon.
+
+Tags: Eddystone, iBeacon, uribeacon, physical web, beacon, estimote, kontakt, onyx, bluetooth, BLE scanner, ble 4.0, beacon detect, beacon scan.",Web beacon tracker,Advertising,Crawler search,Google play,Software registry,YES
+46,https://play.google.com/store/apps/details?id=com.linetra.txeddystone_url&referrer=utm_source%3D42matters.com%26utm_medium%3Dapi,"This app acts as a Eddystone URL beacon (Physical Web). You can specify a custom URL to broadcast. You will need a device which supports BLE (Bluetooth Low Energy) peripheral mode.
+
+Source code available at https://github.com/ivivek/TxEddystone-URL",Web beacon tracker,Advertising,Crawler search,Google play,Software registry,YES
+47,https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=8990291&KC=B2&date=20150324&locale=en_EP,"In a server-client system, a server provides a Web site and a function to record access logs using Web beacon technology, and a client terminal communicable with the server includes a browser to execute JavaScript by dynamically embedding a 1-pixel image file that is dynamically added with a random parameter to a source of a <img> tag element in a <div> tag element. The random parameter may include at least current time data acquired in the client terminal. The server may read the requested 1-pixel image file from the Web site, and transfer the 1-pixel image file in HTML to the client terminal, and concurrently record a log including the random parameter in addition to information recordable by the Web beacon technology.",Web beacon tracker,Advertising,Crawler search,EU Patents Database,Software registry,YES
+48,http://arxiv.org/abs/1902.02484v1,"IoT devices are increasingly being implicated in cyber-attacks, raising
+community concern about the risks they pose to critical infrastructure,
+corporations, and citizens. In order to reduce this risk, the IETF is pushing
+IoT vendors to develop formal specifications of the intended purpose of their
+IoT devices, in the form of a Manufacturer Usage Description (MUD), so that
+their network behavior in any operating environment can be locked down and
+verified rigorously. This paper aims to assist IoT manufacturers in developing
+and verifying MUD profiles, while also helping adopters of these devices to
+ensure they are compatible with their organizational policies and track devices
+network behavior based on their MUD profile. Our first contribution is to
+develop a tool that takes the traffic trace of an arbitrary IoT device as input
+and automatically generates the MUD profile for it. We contribute our tool as
+open source, apply it to 28 consumer IoT devices, and highlight insights and
+challenges encountered in the process. Our second contribution is to apply a
+formal semantic framework that not only validates a given MUD profile for
+consistency, but also checks its compatibility with a given organizational
+policy. We apply our framework to representative organizations and selected
+devices, to demonstrate how MUD can reduce the effort needed for IoT acceptance
+testing. Finally, we show how operators can dynamically identify IoT devices
+using known MUD profiles and monitor their behavioral changes on their network.",Behavioural tracking,Advertising,Crawler search,Arxiv,Research,YES
+49,http://arxiv.org/abs/1407.0697v1,"SLA (Service level agreement) is defined by an organization to fulfil its
+client requirements, the time within which the deliverables should be turned
+over to the clients. Tracking of SLA can be done manually by checking the
+status, priority of any particular task. Manual SLA tracking takes time as one
+has to go over each and every task that needs to be completed. For instance,
+you ordered a product from a website and you are not happy with the quality of
+the product and want to replace the same on urgent basis, You send mail to the
+customer support department, the query/complaint will be submitted in a queue
+and will be processed basis of its priority and urgency (The SLA for responding
+back to customers concern are listed in the policy). This online SLA tracking
+system will ensure that no queries/complaints are missed and are processed in
+an organized manner as per their priority and the date by when it should be
+handled. The portal will provide the status of the complaints for that
+particular day and the ones which have been pending since last week. The
+information can be refreshed as per the client need (within what time frame the
+complaint should be addressed).",Behavioural tracking,Advertising,Crawler search,Arxiv,Research,YES
+50,https://doi.org/10.1016/j.engappai.2013.01.003,Combining eye-tracking technologies with web usage mining for identifying Website Keyobjects.,Behavioural tracking,Advertising,Crawler search,DBLP,Research,YES
+51,https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=8452832&KC=B2&date=20130528&locale=en_EP,"An improved system and method for web destination profiling for online population-targeted advertising is provided. A web destination profiler may be provided for generating web destination profiles. Traffic may be analyzed at a particular web destination in order to understand the population visiting the web destination. The analysis of user traffic, including differentiated clickstream data, may be applied for determining known characteristics of a web destination profile. Moreover, unknown characteristics of a web destination profile may be determined using a variety of techniques including inferring characteristics by modeling traffic flow through other web destinations, estimating characteristics from other web destination profiles by predicting traffic flow through other web destinations, propagating characteristics to a web destination profile by smoothing a joint distribution of characteristics of other web destination profiles, and so forth. Web destination profiles may be used by applications such as an online application for population-targeted advertising.",Behavioural tracking,Advertising,Crawler search,EU Patents Database,Software registry,YES
+52,https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=8712838&KC=B2&date=20140429&locale=en_EP,"A method for serving a web page begins by storing a set of location-specific page elements. In response to a request for the web page from a client browser, a control routine parses the request to locate a geographic location data string identifying a location of the client browser that has made the request. The geographic location data string may be generated at the client browser in a number of different ways, e.g., by a Global Positioning System (GPS) receiver coupled to the client computer. At the server, the web page is built dynamically using the geographic location data string to select a given one of the set of location-specific page elements and, preferably, an element having content associated with a physical location in proximity to the location of the client browser. The web page is then served in response to the request. In this way, targeted advertising or other page content is included in the web page as a function of the client browser location.",Behavioural tracking,Advertising,Crawler search,EU Patents Database,Software registry,YES
+53,http://arxiv.org/abs/1802.02507v1,"Third-party networks collect vast amounts of data about users via web sites
+and mobile applications. Consolidations among tracker companies can
+significantly increase their individual tracking capabilities, prompting
+scrutiny by competition regulators. Traditional measures of market share, based
+on revenue or sales, fail to represent the tracking capability of a tracker,
+especially if it spans both web and mobile. This paper proposes a new approach
+to measure the concentration of tracking capability, based on the reach of a
+tracker on popular websites and apps. Our results reveal that tracker
+prominence and parent-subsidiary relationships have significant impact on
+accurately measuring concentration.",Behavioural tracking,Advertising,Crawler search,Arxiv,Research,YES
+54,http://arxiv.org/abs/1410.3340v1,"Much interest has been taken in understanding the global routing structure of
+the Internet, both to model and protect the current structures and to modify
+the structure to improve resilience. These studies rely on trace-routes and
+algorithmic inference to resolve individual IP addresses into connected
+routers, yielding a network of routers. Using WHOIS registries, parsing of DNS
+registries, as well as simple latency-based triangulation, these routers can
+often be geolocated to at least their country of origin, if not specific
+regions. In this work, we use node subgraph summary statistics to present
+evidence that the router-level (IPv4) network is spatially embedded, with the
+similarity (or dissimilarity) of a node from it's neighbor strongly correlating
+with the attributes of other routers residing in the same country or region. We
+discuss these results in context of the recently proposed gravity models of the
+Internet, as well as the potential application to geolocation inferrence.",Compliance and obligations,Compliance,Crawler search,Arxiv,Research,YES
+55,http://arxiv.org/abs/1804.10233v1,"Social media for news consumption is becoming increasingly popular due to its
+easy access, fast dissemination, and low cost. However, social media also
+enable the wide propagation of ""fake news"", i.e., news with intentionally false
+information. Fake news on social media poses significant negative societal
+effects, and also presents unique challenges. To tackle the challenges, many
+existing works exploit various features, from a network perspective, to detect
+and mitigate fake news. In essence, news dissemination ecosystem involves three
+dimensions on social media, i.e., a content dimension, a social dimension, and
+a temporal dimension. In this chapter, we will review network properties for
+studying fake news, introduce popular network types and how these networks can
+be used to detect and mitigation fake news on social media.",Fake reviews,Advertising,Crawler search,Arxiv,Research,YES
+56,http://arxiv.org/abs/1709.06916v2,"Popular User-Review Social Networks (URSNs)---such as Dianping, Yelp, and
+Amazon---are often the targets of reputation attacks in which fake reviews are
+posted in order to boost or diminish the ratings of listed products and
+services. These attacks often emanate from a collection of accounts, called
+Sybils, which are collectively managed by a group of real users. A new advanced
+scheme, which we term elite Sybil attacks, recruits organically highly-rated
+accounts to generate seemingly-trustworthy and realistic-looking reviews. These
+elite Sybil accounts taken together form a large-scale sparsely-knit Sybil
+network for which existing Sybil fake-review defense systems are unlikely to
+succeed. In this paper, we conduct the first study to define, characterize, and
+detect elite Sybil attacks. We show that contemporary elite Sybil attacks have
+a hybrid architecture, with the first tier recruiting elite Sybil workers and
+distributing tasks by Sybil organizers, and with the second tier posting fake
+reviews for profit by elite Sybil workers. We design ElsieDet, a three-stage
+Sybil detection scheme, which first separates out suspicious groups of users,
+then identifies the campaign windows, and finally identifies elite Sybil users
+participating in the campaigns. We perform a large-scale empirical study on ten
+million reviews from Dianping, by far the most popular URSN service in China.
+Our results show that reviews from elite Sybil users are more spread out
+temporally, craft more convincing reviews, and have higher filter bypass rates.
+We also measure the impact of Sybil campaigns on various industries (such as
+cinemas, hotels, restaurants) as well as chain stores, and demonstrate that
+monitoring elite Sybil users over time can provide valuable early alerts
+against Sybil campaigns.",Fake reviews,Advertising,Crawler search,Arxiv,Research,YES
+57,http://arxiv.org/abs/1603.01511v1,"Massive amounts of misinformation have been observed to spread in
+uncontrolled fashion across social media. Examples include rumors, hoaxes, fake
+news, and conspiracy theories. At the same time, several journalistic
+organizations devote significant efforts to high-quality fact checking of
+online claims. The resulting information cascades contain instances of both
+accurate and inaccurate information, unfold over multiple time scales, and
+often reach audiences of considerable size. All these factors pose challenges
+for the study of the social dynamics of online news sharing. Here we introduce
+Hoaxy, a platform for the collection, detection, and analysis of online
+misinformation and its related fact-checking efforts. We discuss the design of
+the platform and present a preliminary analysis of a sample of public tweets
+containing both fake news and fact checking. We find that, in the aggregate,
+the sharing of fact-checking content typically lags that of misinformation by
+10--20 hours. Moreover, fake news are dominated by very active users, while
+fact checking is a more grass-roots activity. With the increasing risks
+connected to massive online misinformation, social news observatories have the
+potential to help researchers, journalists, and the general public understand
+the dynamics of real and fake news sharing.",Fake reviews,Advertising,Crawler search,Arxiv,Research,YES
+58,http://arxiv.org/abs/1904.12607,Towards Understanding and Detecting Fake Reviews in App Stores.,Fake reviews,Advertising,Crawler search,DBLP,Research,YES
+59,http://arxiv.org/abs/1607.06891v3,"In technical support scams, cybercriminals attempt to convince users that
+their machines are infected with malware and are in need of their technical
+support. In this process, the victims are asked to provide scammers with remote
+access to their machines, who will then ""diagnose the problem"", before offering
+their support services which typically cost hundreds of dollars. Despite their
+conceptual simplicity, technical support scams are responsible for yearly
+losses of tens of millions of dollars from everyday users of the web. In this
+paper, we report on the first systematic study of technical support scams and
+the call centers hidden behind them. We identify malvertising as a major
+culprit for exposing users to technical support scams and use it to build an
+automated system capable of discovering, on a weekly basis, hundreds of phone
+numbers and domains operated by scammers. By allowing our system to run for
+more than 8 months we collect a large corpus of technical support scams and use
+it to provide insights on their prevalence, the abused infrastructure, the
+illicit profits, and the current evasion attempts of scammers. Finally, by
+setting up a controlled, IRB-approved, experiment where we interact with 60
+different scammers, we experience first-hand their social engineering tactics,
+while collecting detailed statistics of the entire process. We explain how our
+findings can be used by law-enforcing agencies and propose technical and
+educational countermeasures for helping users avoid being victimized by
+technical support scams.",Financial online fraud,Scam (Online Fraud),Crawler search,Arxiv,Research,YES
+60,http://arxiv.org/abs/1109.1074v1,"In India many people are now dependent on online banking. This raises
+security concerns as the banking websites are forged and fraud can be committed
+by identity theft. These forged websites are called as Phishing websites and
+created by malicious people to mimic web pages of real websites and it attempts
+to defraud people of their personal information. Detecting and identifying
+phishing websites is a really complex and dynamic problem involving many
+factors and criteria. This paper discusses about the prediction of phishing
+websites using neural networks. A neural network is a multilayer system which
+reduces the error and increases the performance. This paper describes a
+framework to better classify and predict the phishing sites using neural
+networks.",Forced Action,Dark Patterns,Crawler search,Arxiv,Research,YES
+61,http://arxiv.org/abs/1806.08910v1,"We introduce the fraud de-anonymization problem, that goes beyond fraud
+detection, to unmask the human masterminds responsible for posting search rank
+fraud in online systems. We collect and study search rank fraud data from
+Upwork, and survey the capabilities and behaviors of 58 search rank fraudsters
+recruited from 6 crowdsourcing sites. We propose Dolos, a fraud
+de-anonymization system that leverages traits and behaviors extracted from
+these studies, to attribute detected fraud to crowdsourcing site fraudsters,
+thus to real identities and bank accounts. We introduce MCDense, a min-cut
+dense component detection algorithm to uncover groups of user accounts
+controlled by different fraudsters, and leverage stylometry and deep learning
+to attribute them to crowdsourcing site profiles. Dolos correctly identified
+the owners of 95% of fraudster-controlled communities, and uncovered fraudsters
+who promoted as many as 97.5% of fraud apps we collected from Google Play. When
+evaluated on 13,087 apps (820,760 reviews), which we monitored over more than 6
+months, Dolos identified 1,056 apps with suspicious reviewer groups. We report
+orthogonal evidence of their fraud, including fraud duplicates and fraud
+re-posts.",General scam & Pishing,Scam (Online Fraud),Crawler search,Arxiv,Research,YES
+62,http://arxiv.org/abs/1801.04565v1,"Data retrieval systems such as online search engines and online social
+networks must comply with the privacy policies of personal and selectively
+shared data items, regulatory policies regarding data retention and censorship,
+and the provider's own policies regarding data use. Enforcing these policies is
+difficult and error-prone. Systematic techniques to enforce policies are either
+limited to type-based policies that apply uniformly to all data of the same
+type, or incur significant runtime overhead.
+  This paper presents Shai, the first system that systematically enforces
+data-specific policies with near-zero overhead in the common case. Shai's key
+idea is to push as many policy checks as possible to an offline, ahead-of-time
+analysis phase, often relying on predicted values of runtime parameters such as
+the state of access control lists or connected users' attributes. Runtime
+interception is used sparingly, only to verify these predictions and to make
+any remaining policy checks. Our prototype implementation relies on efficient,
+modern OS primitives for sandboxing and isolation. We present the design of
+Shai and quantify its overheads on an experimental data indexing and search
+pipeline based on the popular search engine Apache Lucene.",General scam & Pishing,Scam (Online Fraud),Crawler search,Arxiv,Research,YES
+63,http://arxiv.org/abs/1907.03048v1,"Download fraud is a prevalent threat in mobile App markets, where fraudsters
+manipulate the number of downloads of Apps via various cheating approaches.
+Purchased fake downloads can mislead recommendation and search algorithms and
+further lead to bad user experience in App markets. In this paper, we
+investigate download fraud problem based on a company's App Market, which is
+one of the most popular Android App markets. We release a honeypot App on the
+App Market and purchase fake downloads from fraudster agents to track fraud
+activities in the wild. Based on our interaction with the fraudsters, we
+categorize download fraud activities into three types according to their
+intentions: boosting front end downloads, optimizing App search ranking, and
+enhancing user acquisition&retention rate. For the download fraud aimed at
+optimizing App search ranking, we select, evaluate, and validate several
+features in identifying fake downloads based on billions of download data. To
+get a comprehensive understanding of download fraud, we further gather stances
+of App marketers, fraudster agencies, and market operators on download fraud.
+The followed analysis and suggestions shed light on the ways to mitigate
+download fraud in App markets and other social platforms. To the best of our
+knowledge, this is the first work that investigates the download fraud problem
+in mobile App markets.",General scam & Pishing,Scam (Online Fraud),Crawler search,Arxiv,Research,YES
+64,https://play.google.com/store/apps/details?id=com.fraudlabspro.mobile&referrer=utm_source%3D42matters.com%26utm_medium%3Dapi,"The FraudLabs Pro app lets you connect to your FraudLabs Pro online fraud screening service and view the current status of the transactions you are monitoring. It is a handy companion when receiving an alert while on the go. FraudLabs Pro service screens credit card transactions for online frauds. It increases e-commerce merchant profits by reduces chargeback, improves operation efficiency and provides business intelligence.
+
+Features:
+• Get alerts as push notifications directly to your device.
+• Quickly review an order with root-cause analyses.
+• View the current status of all order transactions.
+• View sales statistics for each site.
+• Quickly switch between all your sites.
+
+This app require FraudLabs Pro account to work. Please sign up a free account from http://www.fraudlabspro.com",General scam & Pishing,Scam (Online Fraud),Crawler search,Google play,Software registry,YES
+65,http://www.itiis.org/digital-library/manuscript/355,we propose a system that detects botnets and zombie PCs based on email spam analysis,Geoblocking,Geoblocking,Crawler search,Web of Science Database,Research,YES
+66,http://arxiv.org/abs/1805.10505v2,"User data is the primary input of digital advertising, fueling the free
+Internet as we know it. As a result, web companies invest a lot in elaborate
+tracking mechanisms to acquire user data that can sell to data markets and
+advertisers. However, with same-origin policy, and cookies as a primary
+identification mechanism on the web, each tracker knows the same user with a
+different ID. To mitigate this, Cookie Synchronization (CSync) came to the
+rescue, facilitating an information sharing channel between third parties that
+may or not have direct access to the website the user visits. In the
+background, with CSync, they merge user data they own, but also reconstruct a
+user's browsing history, bypassing the same origin policy. In this paper, we
+perform a first to our knowledge in-depth study of CSync in the wild, using a
+year-long weblog from 850 real mobile users. Through our study, we aim to
+understand the characteristics of the CSync protocol and the impact it has on
+web users' privacy. For this, we design and implement CONRAD, a holistic
+mechanism to detect CSync events at real time, and the privacy loss on the user
+side, even when the synced IDs are obfuscated. Using CONRAD, we find that 97%
+of the regular web users are exposed to CSync: most of them within the first
+week of their browsing, and the median userID gets leaked, on average, to 3.5
+different domains. Finally, we see that CSync increases the number of domains
+that track the user by a factor of 6.75.",HTTP Cookies,Advertising,Crawler search,Arxiv,Research,YES
+67,https://play.google.com/store/apps/details?id=org.leightwb.srware&referrer=utm_source%3D42matters.com%26utm_medium%3Dapi,"You are looking for a powerful, extremely fast and data protective browser for your Android smartphone or tablet? Then try Lightweight Browser. 
+
+Main Features:
+- Insane rendering speed
+- very small application size
+- AdBlocker
+- Cookie, JavaScript and Tracking control
+- WebRTC Control
+- Blink Rendering Engine via Webview
+- Backup functionality
+- Dark Theme
+- and much more ....
+
+Of course the application needs some permission for surfing the web and downloading files to storage etc. But the following permissions are OPTINAL and can be denied if you don't need location or video-chat via the browser:
+- permission.ACCESS_LOCATION
+- permission.ACCESS_FINE_LOCATION
+- permission.CAMERA
+- permission.RECORD_AUDIO
+
+The browser is open source and is also based on other open source work. We give thanks to all the developers. But we have stricter privacy rules than most other browsers. The app has no 3rd party plugins integrated which could possibly send personal data.",HTTP Cookies,Advertising,Crawler search,Google play,Software registry,YES
+68,https://doi.org/10.1109/SMARTCOMP.2017.7947016,Identity Theft Detection in Mobile Social Networks Using Behavioral Semantics.,Identity Theft,Scam (Online Fraud),Crawler search,DBLP,Research,YES
+69,https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=7540021&KC=B2&date=20090526&locale=en_EP,"The present invention relates to an information security bot system for the mitigation of damage upon its victims, or enforcement of Identity Theft laws, by searching and inducing transactions with perpetrators of identity crimes (e.g. identity theft.). Searching is accomplished using a software spider search robot (“bot”) that turns any transmitted personal information in to a bit-keyed array that cannot betray any of the known information of the users. Transactions with perpetrators are induced and affected using machine generated natural language techniques. In instances of success, data (actual, bogus or “poisoned”) is transferred to or received from said perpetrators. This data can be used to protect victims or to ensnare perpetrators. In addition, the invention relates to offensive and proactive prevention of identity theft and other related crimes.",Identity Theft,Scam (Online Fraud),Crawler search,EU Patents Database,Software registry,YES
+70,https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=10165002&KC=B2&date=20181225&locale=en_EP,"A system for identifying an imposter account in a social network includes a monitoring engine to monitor user accounts of a social network, an identifying engine to identify attributes associated with each of the user accounts of the social network, a matching engine to match the attributes associated with each of the user accounts of the social network, a determining engine to determine when one of the user accounts is an imposter account associated with identity theft of a victim account, a calculating engine to calculate a threshold, and an executing engine to execute an action against the identity theft of the victim account by the imposter account.",Identity Theft,Scam (Online Fraud),Crawler search,EU Patents Database,Software registry,YES
+71,https://doi.org/10.1145/2911451.2911467,Cobwebs from the Past and Present - Extracting Large Social Networks using Internet Archive Data.,Internet snaps and internet archives,Web Evidence,Crawler search,DBLP,Research,YES
+72,https://github.com/cocrawler/cdx_toolkit,A toolkit for CDX indices such as Common Crawl and the Internet Archive's Wayback Machine,Internet snaps and internet archives,Web Evidence,Crawler search,Github,Software registry,YES
+73,https://github.com/XOlator/wayback_gem,Ruby gem to access Archive.org's Wayback Machine Memento API,Internet snaps and internet archives,Web Evidence,Crawler search,Github,Software registry,YES
+74,https://github.com/DocNow/waybackprov,utility to fetch provenance information from Internet Archive's Wayback Machine,Internet snaps and internet archives,Web Evidence,Crawler search,Github,Software registry,YES
+75,https://github.com/theriley106/MultiPage,A program capable of opening multiple Selenium web-driver windows while rotating through a list of proxies.  Randomized user-agents are activated in each window.  Finds errors/differences between windows using screenshot file size.,Internet snaps and internet archives,Web Evidence,Crawler search,Github,Software registry,YES
+76,https://github.com/juliankrieger/Screengrabber,Program to grab a Screenshot every 3 seconds and put it in a folder,Internet snaps and internet archives,Web Evidence,Crawler search,Github,Software registry,YES
+77,https://github.com/lassebunk/screenshot-generator,WordPress plugin for taking automatic screenshots of posts for social media etc.,Internet snaps and internet archives,Web Evidence,Crawler search,Github,Software registry,YES
+78,https://github.com/BBC-News/wraith,Wraith — A responsive screenshot comparison tool,Internet snaps and internet archives,Web Evidence,Crawler search,Github,Software registry,YES
+79,http://arxiv.org/abs/1907.02906v1,"While there have been numerous calls to increase the participation of people
+with disabilities in STEM, many postsecondary institutions are not equipped to
+support students with disabilities. We examined the digital accessibility of
+139 webpages from 73 postsecondary institutions that contained information
+about the undergraduate physics curriculum and graduate research programs. We
+selected these webpages as they are common entry points for students interested
+in pursuing a physics degree. We used Tenon and Mac OS X's Voiceover software
+to assess the accessibility of these webpages as measured by alignment with the
+Web Content Accessibility Guidelines (WCAG) 2.0. We found only one webpage was
+accessible for students with disabilities. We present five common accessibility
+errors we identified in the webpages in our sample, suggested solutions for
+these errors, and implications for students with disabilities, instructors and
+staff, institutional administration, and the broader physics community.",Internet snaps and internet archives,Web Evidence,Crawler search,Arxiv,Research,YES
+80,http://arxiv.org/abs/1510.06501v2,"Phishing is a major problem on the Web. Despite the significant attention it
+has received over the years, there has been no definitive solution. While the
+state-of-the-art solutions have reasonably good performance, they require a
+large amount of training data and are not adept at detecting phishing attacks
+against new targets. In this paper, we begin with two core observations: (a)
+although phishers try to make a phishing webpage look similar to its target,
+they do not have unlimited freedom in structuring the phishing webpage; and (b)
+a webpage can be characterized by a small set of key terms; how these key terms
+are used in different parts of a webpage is different in the case of legitimate
+and phishing webpages. Based on these observations, we develop a phishing
+detection system with several notable properties: it is language-independent,
+can be implemented entirely on client-side, has excellent classification
+performance and is fast. In addition, we developed a target identification
+component that can identify the target website that a phishing webpage is
+attempting to mimic. The target detection component is faster than previously
+reported systems and can help minimize false positives in our phishing
+detection system.",Internet snaps and internet archives,Web Evidence,Crawler search,Arxiv,Research,YES
+81,http://arxiv.org/abs/1606.06510v1,"Aggregators are playing an increasingly crucial role in the integration of
+renewable generation in power systems. However, the intermittent nature of
+renewable generation makes market interactions of aggregators difficult to
+monitor and regulate, raising concerns about potential market manipulation by
+aggregators. In this paper, we study this issue by quantifying the profit an
+aggregator can obtain through strategic curtailment of generation in an
+electricity market. We show that, while the problem of maximizing the benefit
+from curtailment is hard in general, efficient algorithms exist when the
+topology of the network is radial (acyclic). Further, we highlight that
+significant increases in profit are possible via strategic curtailment in
+practical settings.",Online trackers,Advertising,Crawler search,Arxiv,Research,YES
+82,http://arxiv.org/abs/1605.05077,Ad-Blocking and Counter Blocking - A Slice of the Arms Race.,Misleading advertising ,Advertising,Crawler search,DBLP,Research,YES
+83,https://github.com/UCI-Networking-Group/nomoads,NoMoAds - Effective and Efficient Cross-App Mobile Ad-Blocking.,Misleading advertising ,Advertising,Crawler search,DBLP,Research,YES
+84,https://play.google.com/store/apps/details?id=com.ongo.whatsfake&referrer=utm_source%3D42matters.com%26utm_medium%3Dapi,"A Block chain, Deep Learning based initiative!
+Content Moderation leverages Deep Learning technology, Not only does Content Moderation help users to reduce adult, violence, terrorism, drugs and other illegal or inappropriate content, but can also minimize spam advertising and other user experience pain points.",Misleading advertising ,Advertising,Crawler search,Google play,Software registry,YES
+85,https://play.google.com/store/apps/details?id=com.lkr.fakelocationpro&referrer=utm_source%3D42matters.com%26utm_medium%3Dapi,"If you like our application, upgrade Fake Location (Mock GPS) PRO - Sponsored version!
+
+You will also get a higher PRO exclusive features:
+- Professional
+-30 record My Favorites
+-30 record Location History
+- No Advertising
+
+=== Sharing ===
+Using false position App, you can disguise your location, tap around the world will be able to Fake Location.
+1. Analog seating arrangement in any country Gps coordinates.
+2. You have to find their own place in disguise, whether street, the city where they can perform the most accurate positioning false.
+3. Transferring false position message to the community LINE, FB, Whatsapp, so you do not easily be tracked.
+4. Can check the location GPS position coordinates.
+5. Compass, direction accurately caught.
+6. The simple user interface, the fastest.
+7. My favorite feature, recording place, allowing you quick access.
+8. Fake location history.
+
+If you have any questions you can send Mail to us! 
+lkr.studio.service@gmail.com",Misleading advertising ,Advertising,Crawler search,Google play,Software registry,YES
+86,http://arxiv.org/abs/1605.04717v1,"This paper examines the cues that typically differentiate phishing emails
+from genuine emails. The research is conducted in two stages. In the first
+stage, we identify the cues that actually differentiate between phishing and
+genuine emails. These are the consistency and personalisation of the message,
+the perceived legitimacy of links and sender, and the presence of spelling or
+grammatical irregularities. In the second stage, we identify the cues that
+participants use to differentiate between phishing and genuine emails. This
+revealed that participants often use cues that are not good indicators of
+whether an email is phishing or genuine. This includes the presence of legal
+disclaimers, the quality of visual presentation, and the positive consequences
+emphasised in the email. This study has implications for education and training
+and provides a basis for the design and development of targeted and more
+relevant training and risk communication strategies.",Scarcity,Dark Patterns,Crawler search,Arxiv,Research,YES
+87,http://arxiv.org/abs/1705.00648v1,"Automatic fake news detection is a challenging problem in deception
+detection, and it has tremendous real-world political and social impacts.
+However, statistical approaches to combating fake news has been dramatically
+limited by the lack of labeled benchmark datasets. In this paper, we present
+liar: a new, publicly available dataset for fake news detection. We collected a
+decade-long, 12.8K manually labeled short statements in various contexts from
+PolitiFact.com, which provides detailed analysis report and links to source
+documents for each case. This dataset can be used for fact-checking research as
+well. Notably, this new dataset is an order of magnitude larger than previously
+largest public fake news datasets of similar type. Empirically, we investigate
+automatic fake news detection based on surface-level linguistic patterns. We
+have designed a novel, hybrid convolutional neural network to integrate
+meta-data with text. We show that this hybrid approach can improve a text-only
+deep learning model.",Social proof,Dark Patterns,Crawler search,Arxiv,Research,YES
+88,http://arxiv.org/abs/1508.01719v1,"Single sign-on (SSO) systems, such as OpenID and OAuth, allow web sites,
+so-called relying parties (RPs), to delegate user authentication to identity
+providers (IdPs), such as Facebook or Google. These systems are very popular,
+as they provide a convenient means for users to log in at RPs and move much of
+the burden of user authentication from RPs to IdPs.
+  There is, however, a downside to current systems, as they do not respect
+users' privacy: IdPs learn at which RP a user logs in. With one exception,
+namely Mozilla's BrowserID system (a.k.a. Mozilla Persona), current SSO systems
+were not even designed with user privacy in mind. Unfortunately, recently
+discovered attacks, which exploit design flaws of BrowserID, show that
+BrowserID does not provide user privacy either.
+  In this paper, we therefore propose the first privacy-respecting SSO system
+for the web, called SPRESSO (for Secure Privacy-REspecting Single Sign-On). The
+system is easy to use, decentralized, and platform independent. It is based
+solely on standard HTML5 and web features and uses no browser extensions,
+plug-ins, or other executables.
+  Existing SSO systems and the numerous attacks on such systems illustrate that
+the design of secure SSO systems is highly non-trivial. We therefore also carry
+out a formal analysis of SPRESSO based on an expressive model of the web in
+order to formally prove that SPRESSO enjoys strong authentication and privacy
+properties.",VPN,Geoblocking,Crawler search,Arxiv,Research,YES
+89,http://arxiv.org/abs/1907.10331v1,"Recent work has demonstrated that by monitoring the Real Time Bidding (RTB)
+protocol, one can estimate the monetary worth of different users for the
+programmatic advertising ecosystem, even when the so-called winning bids are
+encrypted. In this paper we describe how to implement the above techniques in a
+practical and privacy preserving manner. Specifically, we study the privacy
+consequences of reporting back to a centralized server, features that are
+necessary for estimating the value of encrypted winning bids. We show that by
+appropriately modulating the granularity of the necessary information and by
+scrambling the communication channel to the server, one can increase the
+privacy performance of the system in terms of K-anonymity. We've implemented
+the above ideas on a browser extension and disseminated it to some 200 users.
+Analyzing the results from 6 months of deployment, we show that the average
+value of users for the programmatic advertising ecosystem has grown more than
+75% in the last 3 years.",VPN,Geoblocking,Crawler search,Arxiv,Research,YES
+90,http://arxiv.org/abs/1003.5325v1,"We examine the properties of all HTTP requests generated by a thousand
+undergraduates over a span of two months. Preserving user identity in the data
+set allows us to discover novel properties of Web traffic that directly affect
+models of hypertext navigation. We find that the popularity of Web sites -- the
+number of users who contribute to their traffic -- lacks any intrinsic mean and
+may be unbounded. Further, many aspects of the browsing behavior of individual
+users can be approximated by log-normal distributions even though their
+aggregate behavior is scale-free. Finally, we show that users' click streams
+cannot be cleanly segmented into sessions using timeouts, affecting any attempt
+to model hypertext navigation using statistics of individual sessions. We
+propose a strictly logical definition of sessions based on browsing activity as
+revealed by referrer URLs; a user may have several active sessions in their
+click stream at any one time. We demonstrate that applying a timeout to these
+logical sessions affects their statistics to a lesser extent than a purely
+timeout-based mechanism.",Web beacon tracker,Advertising,Crawler search,Arxiv,Research,YES
+0,http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=239&SID=6BNE5W34w9zUGQOFJug&page=1&doc=1&cacheurlFromRightClick=no,"According to a sample of over thirty thousand images collected from popular websites, this paper shows that such an assumption is a fallacy: classical 1 x 1 images are still commonly used for third-party tracking in the contemporary world wide web. While it seems that ad-blockers are unable to fully block these classical image-based tracking beacons, the paper further demonstrates that even limited information can be used to accurately classify the third-party lx1 images from other images. An average classification accuracy of 0.956 is reached in the empirical experiment. With these results the paper contributes to the ongoing attempts to better understand the lack of privacy in the world wide web, and the means by which the situation might be eventually improved.",Web beacon tracker,Advertising,Research search,Web of Science Database,Research,YES
+1,http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=239&SID=6BNE5W34w9zUGQOFJug&page=1&doc=2&cacheurlFromRightClick=no,"This paper proposes a novel technique that utilizes the presence of web beacons to create a unique ID for a website, to test this a practical investigation is performed. The practical investigation involves an automated scanning of web beacons on a number of websites, this scanning process involves identifying which beacons are present on a web page and recording the presence of those beacons, the results of this scanning process is then encoded into a table for human analyses.",Web beacon tracker,Advertising,Research search,Web of Science Database,Research,YES
+2,http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=244&SID=6BNE5W34w9zUGQOFJug&page=1&doc=10&cacheurlFromRightClick=no,"After a systematic analysis of the infiltration process, a Chrome extension application named Sniff-Phish is developed, where the resource intensive computational tasks are performed in cloud with which we could be able to detect various categories of real-time email scams or phishing attacks like zero-day and spear phishing. This extension application is based upon analyzing some basic criterion of the malicious URL and duly presenting the legitimacy level of the link in the form of a report. The accuracy obtains for Sniff-Phish is 98% and covers a wide range of phishing websites, resulting in the less false positive rate of 1.2%.",General scam & Pishing,Scam (Online Fraud),Research search,Web of Science Database,Research,YES
+3,http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=290&SID=6BNE5W34w9zUGQOFJug&page=1&doc=1&cacheurlFromRightClick=no,"We examine how open and closed review posting policies play differentiating roles in creating social media bias. As a supplementary method to existing ones detecting fake reviews, we develop a trust measure estimating how genuine the review is, based on the frequent usage of strongly positive or negative words.",Fake reviews,Advertising,Research search,Web of Science Database,Research,YES
+4,http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=290&SID=6BNE5W34w9zUGQOFJug&page=1&doc=2&cacheurlFromRightClick=no,This article proposes a feature framework for detecting fake reviews that has been evaluated in the consumer electronics domain.,Fake reviews,Advertising,Research search,Web of Science Database,Research,YES
+5,http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=290&SID=6BNE5W34w9zUGQOFJug&page=1&doc=4&cacheurlFromRightClick=no,"In this paper we propose a multi-aspect based neural network model to identify fake reviews, where the review features in the three aspects: metadata, similarity, and sentiment, are considered. We further establish the supervisory model and use the neural network training classifier to identify the fake reviews.",Fake reviews,Advertising,Research search,Web of Science Database,Research,YES
+6,http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=290&SID=6BNE5W34w9zUGQOFJug&page=1&doc=8&cacheurlFromRightClick=no,"This paper proposes three types of new features which include review density, semantic and emotion and gives the model and algorithm to construct each feature. Experiments show that the proposed model, algorithm and features are efficient in fake review detection task than traditional method based on content, reviewer info and behavior.",Fake reviews,Advertising,Research search,Web of Science Database,Research,YES
+7,http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=290&SID=6BNE5W34w9zUGQOFJug&page=1&doc=10&cacheurlFromRightClick=no,"In this paper we are proposing new set of lexical and syntactic features set and applying supervised algorithms for performing classification on fake reviews dataset (gold standard). We focus on the writing style, that include type of punctuation mark, Part-of- Speech (POS) etc., that are helpful for detection of reviews spam",Fake reviews,Advertising,Research search,Web of Science Database,Research,YES
+8,http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=290&SID=6BNE5W34w9zUGQOFJug&page=2&doc=11&cacheurlFromRightClick=no,"So this article purposes an algorithm to detect fake reviews of hype about restaurants based on sentiment analysis. Reviews are considered in four dimensions: taste, environment, service and overall attitude, if the analysis result of the four dimensions are consistent, the review will be categorized as hype.",Fake reviews,Advertising,Research search,Web of Science Database,Research,YES
+9,https://cyber.harvard.edu/sites/cyber.harvard.edu/files/2010_Circumvention_Tool_Usage_Report.pdf,"blocking-resistant tools, simple web proxies, virtual private network (VPN) services, and open HTTP/SOCKS proxies",Geoblocking,Geoblocking,Research search,HeinOnline database,Research,YES
+10,https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=4&SID=8DL6HUjKqtC2WF3qPtf&page=1&doc=3&cacheurlFromRightClick=no,"customers of fake follower markets cannot manipulate legitimate user's relationship perfectly. Existing approaches explore node's relationships or features to detect customers. But none of them combines the relationships and node's features directly. In this article, we propose a model that directly combines the relationship and node's feature to detect customers of fake followers. Specifically, we study the geographical distance for 1-hop-directional links using the nodes geographical location. Motivated by the difference of a distance ratio for 1-hop directional links, the proposed method is designed to generate a 1-hop link distance ratio, and classifies a node as a customer or not.",Social media issues,Advertising,Research search,Web of Science Database,Research,YES
+11,https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=4&SID=8DL6HUjKqtC2WF3qPtf&page=1&doc=8&cacheurlFromRightClick=no,"We developed a sampling-based approach to discover all the near-duplicates of the top accounts, who have at least 50,000 followers. In the experiment, we found 395 near-duplicates, which leads us to 11.90 million fake accounts (4.56 % of total users) who send 741.10 million links (9.50 % of the entire edges). Furthermore, we characterize four typical structures of the spammers, cluster these spammers into 34 groups, and analyze the properties of each group.",Social media issues,Advertising,Research search,Web of Science Database,Research,YES
+12,https://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=4&SID=8DL6HUjKqtC2WF3qPtf&page=1&doc=10&cacheurlFromRightClick=no,"n this paper, we have devised a method which can be used to detect all the fake followers within a social graph network based on features related to the centrality of all the nodes in the graph and training a classifier based on a subset of the data. Using only graph based centrality measures, the proposed method yielded very high accuracy on fake follower detection. The proposed method is generic in nature and can be used irrespective of the social network platform under consideration.",Social media issues,Advertising,Research search,Web of Science Database,Research,YES
+13,http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=69&SID=8DL6HUjKqtC2WF3qPtf&page=1&doc=2&cacheurlFromRightClick=no,"he ISAR-Tool (Import Screening for the Anticipation of Food Risks) facilitates a descriptive analysis of the import data of about 2400 different food items imported from 220 countries and an automated analysis of the data for a systematic detection of unexpected changes in import volumes and prices. For the automated approach, time series analyses using SARIMA and ETS models are applied and data points outside the model based 99% prediction intervals are considered as potentially relevant changes.(...) Despite remaining challenges in the performed evaluation process of the automated analysis, the described approach facilitates already at this stage an improved identification of food safety and food fraud hazards and the implementation of more targeted food safety controls, as shown in this paper. Our most prominent example of an identified food fraud and food safety risk was the detection of massive adulterations of hazelnut products with almonds and cashews, which were associated to the observed all-time high in hazelnut prices. Based on our findings, we conclude that the ISAR-Tool and the described analyses of commodity flows and prices can be important elements in the anticipation of risks and enable an enhanced consumer protection.",Compliance and obligations,Compliance,Research search,Web of Science Database,Research,YES
+14,https://www-sciencedirect-com.ezproxy.ub.unimaas.nl/science/article/pii/S030643791830214X?via%3Dihub,"Based on this finding, we suggested method to detect customers of fake followers. Our approach is the first attempt to adapt geographical distance to detecting customers of fake followers. Considering that customers are different in terms of geographical distance from legitimate users, we performed the classification to identify customers using the follower distance ratio. We compared our approach to DetectVC and CatchSync, the HITs-based representative algorithms of the fake follower and customer detection, respectively. The results showed that our approach has better performance than the other methods. In conclusion, with a high proportion of accuracy (98.1%), our approach is very effective, and provides practical mechanisms that can be applied as fake customer detection systems.",Fake reviews,Advertising,Research search,Web of Science Database,Research,YES
+0,https://www.domaintools.com/products/iris/,,Compliance and obligations,Compliance,Research search,Other,Word of mouth,YES
+1,https://www.domaintools.com/products/domain-risk-score/,,Domain registries,Web Evidence & Consumer Forensics,Research search,Other,Word of mouth,YES
+2,https://www.domaintools.com/products/phisheye/,,General scam & Pishing,Scam (Online Fraud),Research search,Other,Word of mouth,YES
+3,https://www.domaintools.com/products/monitoring/,,Domain registries,Web Evidence & Consumer Forensics,Research search,Other,Word of mouth,YES
+4,http://claudette.eui.eu/use-our-tools/index.html,,General terms and conditions,Unfair terms issues,Research search,Other,Word of mouth,YES
+5,https://www.ghostery.com,,Behavioural tracking,Advertising,Research search,Other,Word of mouth,YES
+6,https://www.ghostery.com/wp-content/themes/ghostery/images/campaigns/tracker-study/Ghostery_Study_-_Tracking_the_Trackers.pdf,,Online trackers,Advertising,Research search,Other,Word of mouth,YES
+7,https://www.ftc.gov/system/files/documents/public_comments/2015/09/00011-97593.pdf,,Price discrimination,Price Transparency Issues,Research search,Other,Word of mouth,YES
+9,https://github.com/mozilla/OpenWPM,,Online trackers,Advertising,Research search,Other,Word of mouth,YES
+11,https://webtransparency.cs.princeton.edu/webcensus/,,Online trackers,Advertising,Research search,Other,Word of mouth,YES
+12,https://adverifai.com,,Behavioural tracking,Advertising,Research search,Other,Word of mouth,YES
+14,https://github.com/aruneshmathur/dark-patterns,,Dark Patterns,Dark Patterns,Research search,Other,Word of mouth,YES
+15,https://www.scamadviser.com,,General scam & Pishing,Scam (Online Fraud),Research search,Other,Word of mouth,YES
+16,https://darkpatterns.uxp2.com,,Dark Patterns,Dark Patterns,Research search,Other,Word of mouth,YES
+17,http://www.digint.com/en/maldith-computer-assisted-internet-investigations/,agency for investigations,Digital Investigations,Digital Investigations,Research search,Other,Word of mouth,YES
+18,https://censoredplanet.org/assets/403forbidden.pdf,detecting geoblocking,Geoblocking,Geoblocking,Research search,Other,Word of mouth,YES
+19,http://vendors.r2accelerator.org,regulators database,Compliance and obligations,Compliance,Research search,Other,Word of mouth,YES
+20,https://trackthis.link,,Online trackers,Advertising,Research search,Other,Word of mouth,YES
+21,http://expressvpn.com/,,VPN,Geoblocking,Research search,Other,Word of mouth,YES
+22,https://dmoz-odp.org,,Internet snaps and internet archives,Web Evidence & Consumer Forensics,Research search,Other,Other,YES
+23,https://arxiv.org/pdf/1905.13649.pdf,online review fraud detection,General scam & Pishing,Scam (Online Fraud),Research search,Other,Other,YES
+24,https://www.andrew.cmu.edu/user/lakoglu/pubs/13-icwsm-fake.pdf,,Fake reviews,Advertising,Research search,Other,Other,YES
+25,https://www.watchlist-internet.at/,,Consumer complaints,Consumer complaints,Research search,Other,Other,YES
+27,https://www.bbb.org/scamtracker/us/,Tool made by self-regulatory body for consumers to report and track scams,General scam & Pishing,Scam (Online Fraud),Research search,Other,Other,YES
+28,http://randomwalker.info/donottrack-archive/,Depends on resource: e.g. Arvind Narayanan maintains a resource on the future of the DoNotTrackUs project; in addition: Electronic Frontier Foundation,Online trackers,Advertising,Research search,Other,Other,YES
+29,https://www.crownpeak.com/about/trackermap-request,Resource from paper cited by Rosenberg et al.,Online trackers,Advertising,Research search,Other,Research,YES
+31,https://www.spyfu.com/?alt=1,Download Your Competitors' Most Profitable Keywords and Ads For Paid and Organic Search,Domain registries,Web Evidence,Research search,Other,Other,YES
+32,https://distill.io,Website change tracking,Domain registries,Web Evidence,Research search,Other,Other,YES
+34,https://www.aignes.com,Monitor websites for new content and changes,Webpage snaps,Web Evidence,Research search,Other,Other,YES
+35,https://visualping.io/cdlp.html?utm_source=cd&utm_medium=redirtocdlp&utm_campaign=mig1/,We monitor webpages… so you don't have to!,Webpage snaps,Web Evidence,Research search,Other,Other,YES
+36,https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf/,Reverse image search,Internet archives,Web Evidence,Research search,Other,Other,YES
+0,dnslytics.com,"search for domain, IP, provider",Domain registries,Web Evidence,Questionnaire,sabrina.belamri@dgccrf.finances.gouv.fr,Consumer Agency,YES
+1,http://ec.europa.eu/taxation_customs/vies/vieshome.do?locale=en,vat validation,Financial online fraud,Scam (Online Fraud),Questionnaire,sabrina.belamri@dgccrf.finances.gouv.fr,Consumer Agency,YES
+2,http://whois.domaintools.com,,Domain registries,Web Evidence,Questionnaire,sabrina.belamri@dgccrf.finances.gouv.fr,Consumer Agency,YES
+3,http://www.bodacc.fr/,FR business register for free,Domain registries,Web Evidence,Questionnaire,sabrina.belamri@dgccrf.finances.gouv.fr,Consumer Agency,YES
+4,http://www.societe.com/,FR business register for free,Domain registries,Web Evidence,Questionnaire,sabrina.belamri@dgccrf.finances.gouv.fr,Consumer Agency,YES
+5,https://nordvpn.com,,VPN,Geoblocking,Questionnaire,riikka.rosendahl@kkv.fi,Consumer Agency,YES
+6,https://vico-research.com/,,Digital Investigations,Digital Investigations,Questionnaire,marktwaechter@vzbv.de,Consumer Agency,YES
+7,https://www.afnic.fr/fr/produits-et-services/services/whois/,,Domain registries,Web Evidence,Questionnaire,sabrina.belamri@dgccrf.finances.gouv.fr,Consumer Agency,YES
+8,https://www.expressvpn.com,,VPN,Geoblocking,Questionnaire,riikka.rosendahl@kkv.fi,Consumer Agency,YES
+9,https://www.f-secure.com/en/home/products/freedome,,VPN,Geoblocking,Questionnaire,riikka.rosendahl@kkv.fi,Consumer Agency,YES
+10,https://www.ibancalculator.com/,find out the bank of the trader's account,Financial online fraud,Scam (Online Fraud),Questionnaire,sabrina.belamri@dgccrf.finances.gouv.fr,Consumer Agency,YES
+11,https://www.infogreffe.fr/recherche-siret-entreprise/chercher-siret-entreprise.html,FR business register for free,Domain registries,Web Evidence,Questionnaire,sabrina.belamri@dgccrf.finances.gouv.fr,Consumer Agency,YES
+12,https://www.techsmith.com,Screen/Video capturing tools,Internet snaps and internet archives,Web Evidence,Questionnaire,riikka.rosendahl@kkv.fi,Consumer Agency,YES
+13,https://www.whois.net/default.aspx,,Domain registries,Web Evidence,Questionnaire,sabrina.belamri@dgccrf.finances.gouv.fr,Consumer Agency,YES
+14,mxtoolbox.com,,Domain registries,Web Evidence,Questionnaire,sabrina.belamri@dgccrf.finances.gouv.fr,Consumer Agency,YES
+15,versionista.com,,Internet snaps and internet archives,Web Evidence,Questionnaire,riikka.rosendahl@kkv.fi,Consumer Agency,YES
+16,www.bindb.com/bin-database.html,identify the bank linked to a credit card,Financial online fraud,Scam (Online Fraud),Questionnaire,sabrina.belamri@dgccrf.finances.gouv.fr,Consumer Agency,YES
+17,www.iana.org/numbers,IP address allocations,Domain registries,Web Evidence,Questionnaire,sabrina.belamri@dgccrf.finances.gouv.fr,Consumer Agency,YES
+18,www.numberingplans.com,,Financial online fraud,Scam (Online Fraud),Questionnaire,sabrina.belamri@dgccrf.finances.gouv.fr,Consumer Agency,YES
+23,NA,Consumer complaints,Consumer complaints,Consumer complaints,Questionnaire,riikka.rosendahl@kkv.fi,Consumer Agency,YES
+29,osirtbrowser.com,,,Web Evidence,Questionnaire,riikka.rosendahl@kkv.fi,Consumer Agency,YES
+30,NA,A self-developed tool that helps us collect and secure evidence on the internet.,,Web Evidence,Questionnaire,Sara.Wahlberg@konsumentverket.se,Consumer Agency,YES
+31,https://snagit.en.softonic.com/,,,Web Evidence,Questionnaire,Sara.Wahlberg@konsumentverket.se,Consumer Agency,YES
+32,http://claudette.eui.eu/,Checking compliance of contractual terms and privacy policies,,Unfair terms issues,Questionnaire,NA; Giovanni.Sartor@eui.eu; Federica.casarosa@gmail.com; marco.lippi@unimore.it; przemyslaw.palka@yale.edu; rossana.ducato@uclouvain.be,Researcher,YES
+33,https://pribot.org/,Graphical summary of privacy policy provisions and chat bot answering questions about these provisions,,,Questionnaire,NA; rossana.ducato@uclouvain.be; marco.lippi@unimore.it; przemyslaw.palka@yale.edu,Researcher,YES
+34,https://useguard.com/play,"Identifying threats in privacy policies, tracking privacy scandals",,,Questionnaire,NA; rossana.ducato@uclouvain.be,Researcher,YES
+35,https://tosdr.org/about.html,Community based assessment and add-on checking fairness of terms,,Unfair terms issues,Questionnaire,NA; rossana.ducato@uclouvain.be,Researcher,YES
+39,ghostery.com,Controlling ads and tracking,,,Questionnaire,a.angerer@student.maastrichtuniversity.nl; o.person@student.maastrichtuniversity.nl,Researcher,YES
+42,https://www.farsightsecurity.com/solutions/threat-intelligence-team/newly-observed-domains/,"Threat protection from new domains (malware obstruction, phishing protection, spam filtering)",,,Questionnaire,info@farsightsecurity.com,Researcher,YES
+43,https://www.farsightsecurity.com/solutions/threat-intelligence-team/dns-changes/,Cybercriminals change DNS records to hijack domains and redirect traffic to malicious websites. The tool helps to monitor this and alert ,,,Questionnaire,info@farsightsecurity.com,Researcher,YES
+44,https://usableprivacy.org/static/files/popets-2019-maps.pdf,Check privacy policies and privacy issues of mobile applications,,,Questionnaire,jreidenberg@law.fordham.edu,Researcher,YES
+45,https://dseanalyser.pguard-tools.de/,German language privacy policies analysis,,,Questionnaire,marco.lippi@unimore.it,Researcher,YES
