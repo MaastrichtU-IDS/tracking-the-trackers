@@ -1,17 +1,18 @@
-group of topics that share something in common,description/definitions,TOPIC,different terms used to describe the same topic,keywords
-Web Evidence,tools that help to record different states of the internet,Internet snaps and internet archives,wayback machine,wayback machine
+Group,description/definitions,TOPIC,different terms used to describe the same topic,keywords
+Web Evidence,tools that help to record different states of the internet,Internet archives,wayback machine,wayback machine
 ,,,internet snap,internet snap
-,,,webpage snap,webpage snap
+,,,internet versions,internet versions
+,,,internet archive,internet archive
+,,Webpage snaps,webpage snap,webpage snap
 ,,,programmed screenshot,programmed screenshot
 ,,,automatic screenshot,automatic screenshot
 ,,,screenshot,screenshot
-,,,internet versions,internet versions
-,,,internet archive,internet archive
+,,Digital investigations,digital investigations,digital investigations
 ,,Domain registries,domain validity,domain validity
 ,,,domain registries,domain registries
 ,,,domain monitoring,domain monitoring
 Advertising,"practices used by traders (either directly or through paid intermediaries) in order to increase the sale of their products or services
-",Market monitoring,market monitoring,market monitoring
+",Online trackers,Online trackers,market monitoring
 ,,Behavioural tracking,behavioural tracking,consumer profiling algorithm
 ,,,behavioral profiling,behavioral profiling
 ,,,behavioral targeting,behavioral targeting
@@ -25,7 +26,7 @@ Advertising,"practices used by traders (either directly or through paid intermed
 ,,,false advertising,false advertising
 ,,,illegal advertising,illegal advertising
 ,,,misleading advertising,misleading advertising
-,,,aggressive advertisement,aggressive advertisement
+,,,aggressive advertisement,sponsored advertising
 ,,Social media issues,sponsored advertising,sponsored advertising
 ,,,fake followers,fake followers
 ,,,influencer disclosure,influencer disclosure
@@ -71,7 +72,7 @@ Scam (Online Fraud),other (illegal) methods used to unfairly disadvantage consum
 ,,,identity theft,Identity theft monitor
 ,,,identity protection,identity protection
 ,,,identity theft,monitoring identity theft
-,,General scam ,pishing,pishing
+,,General scam & Pishing,pishing,pishing
 ,,,pishing,pishing detection
 ,,,pishing,pishing monitoring
 ,,,online fraud,detecting e-commerce
